@@ -1,0 +1,399 @@
+Pk,Tm,Player,College,Yrs,G,MP_total,PTS_total,TRB_total,AST_total,FG%,3P%,FT%,MP,PTS,TRB,AST,RK,PLAYER,POS,HOMETOWN,HT,WT,STARS,GRADE,SCHOOL
+1,CHI,Derrick Rose,Memphis,14,698,21653,12382,2279,3692,0.456,0.316,0.831,31,17.7,3.3,5.3,5,Derrick Rose,PG,"Chicago, ILSimeon Career Academy",6'4'',195,,98,Memphis
+2,MIA,Michael Beasley,Kansas State,11,609,13903,7568,2861,788,0.465,0.349,0.759,22.8,12.4,4.7,1.3,8,Michael Beasley,PF,"Fitchburg, MANotre Dame Prep",6'9'',235,,98,Kansas St
+3,MIN,O.J. Mayo,USC,8,547,16919,7574,1706,1607,0.429,0.373,0.82,30.9,13.8,3.1,2.9,3,O.J. Mayo,SG,"Huntington, WVHuntington High School",6'4'',195,,98,USC
+5,MEM,Kevin Love,UCLA,15,846,25800,14619,8912,1988,0.44,0.372,0.829,30.5,17.3,10.5,2.3,1,Kevin Love,C,"Lake Oswego, ORLake Oswego High School",6'9'',255,,99,UCLA
+7,LAC,Eric Gordon,Indiana,15,783,25268,12655,1878,2202,0.428,0.37,0.811,32.3,16.2,2.4,2.8,2,Eric Gordon,SG,"Indianapolis, INNorth Central High School",6'5'',205,,98,Indiana
+11,IND,Jerryd Bayless,Arizona,11,586,12486,4909,1235,1674,0.411,0.361,0.818,21.3,8.4,2.1,2.9,39,Jerryd Bayless,SG,"Phoenix, AZSaint Mary's High School",6'3'',190,,97,Arizona
+14,GSW,Anthony Randolph,LSU,6,252,3841,1789,1078,187,0.453,0.241,0.74,15.2,7.1,4.3,0.7,29,Anthony Randolph,PF,"Dallas, TXWoodrow Wilson High School",6'10'',210,,97,LSU
+21,NJN,Ryan Anderson,California,12,649,16769,8001,3413,586,0.422,0.38,0.854,25.8,12.3,5.3,0.9,93,Ryan Anderson,PF,"Long Beach, CALong Beach Polytechnic High School",6'8'',215,four,92,Boston College
+23,UTA,Kosta Koufos,Ohio State,11,686,11271,3913,3452,359,0.534,0,0.582,16.4,5.7,5,0.5,12,Kosta Koufos,C,"Canton, OHGlenOak High School",7'1'',250,,97,Ohio State
+35,LAC,DeAndre Jordan,Texas A&M,15,1008,26587,9063,10285,954,0.674,0.154,0.475,26.4,9,10.2,0.9,25,DeAndre Jordan,C,"Houston, TXHouston Christian High School",7'0'',240,,97,Texas A&M
+1,LAC,Blake Griffin,Oklahoma,13,741,24059,14424,6016,3014,0.493,0.327,0.696,32.5,19.5,8.1,4.1,18,Blake Griffin,PF,"Oklahoma City, OKOklahoma Christian School",6'9'',230,,97,Oklahoma
+3,OKC,James Harden,Arizona State,14,967,33547,24021,5456,6672,0.442,0.362,0.86,34.7,24.8,5.6,6.9,21,James Harden,SG,"Lakewood, CAArtesia High School",6'5'',190,,97,Arizona St
+4,SAC,Tyreke Evans,Memphis,10,594,18242,9347,2720,2852,0.44,0.323,0.757,30.7,15.7,4.6,4.8,3,Tyreke Evans,SG,"Aston, PAAmerican Christian High School",6'5'',195,,98,Memphis
+6,MIN,Jonny Flynn,Syracuse,3,163,3738,1504,307,634,0.4,0.338,0.809,22.9,9.2,1.9,3.9,23,Jonny Flynn,PG,"Niagara Falls, NYNiagara Falls High",6'0'',170,,97,Syracuse
+10,MIL,Brandon Jennings,,9,555,16844,7801,1659,3151,0.387,0.345,0.796,30.3,14.1,3,5.7,1,Brandon Jennings,PG,"Los Angeles, CAOak Hill Academy",6'2'',165,,99,List
+15,DET,Austin Daye,Gonzaga,6,293,4132,1522,764,212,0.402,0.351,0.778,14.1,5.2,2.6,0.7,27,Austin Daye,SF,"Irvine, CAWoodbridge High School",6'9'',180,,97,Gonzaga
+16,CHI,James Johnson,Wake Forest,14,756,15386,5778,2684,1588,0.474,0.301,0.679,20.4,7.6,3.6,2.1,50,James Johnson,SF,"Cheyenne, WYEast High School",6'8'',225,,96,Wake Forest
+16,CHI,James Johnson,Wake Forest,14,756,15386,5778,2684,1588,0.474,0.301,0.679,20.4,7.6,3.6,2.1,92,James Johnson,PF,"Wildomar, CAElsinore High School",6'9'',212,four,93,Virginia
+17,PHI,Jrue Holiday,UCLA,14,868,28749,14110,3506,5580,0.46,0.364,0.78,33.1,16.3,4,6.4,4,Jrue Holiday,SG,"North Hollywood, CACampbell Hall High School",6'3'',180,,98,UCLA
+19,ATL,Jeff Teague,Wake Forest,12,826,22164,10061,1989,4585,0.444,0.36,0.844,26.8,12.2,2.4,5.6,67,Jeff Teague,PG,"Indianapolis, INPike High School",6'1'',165,,95,Wake Forest
+37,SAS,DeJuan Blair,Pitt,7,424,7054,2865,2153,349,0.524,0,0.608,16.6,6.8,5.1,0.8,30,DeJuan Blair,C,"Pittsburgh, PASchenley High School",6'7'',250,,97,Pittsburgh
+45,MIN,Nick Calathes,Florida,2,129,2011,590,243,353,0.441,0.288,0.581,15.6,4.6,1.9,2.7,10,Nick Calathes,SG,"Winter Park, FLLake Howell High School",6'5'',185,,97,Florida
+1,WAS,John Wall,Kentucky,11,646,22558,12072,2697,5731,0.43,0.322,0.776,34.9,18.7,4.2,8.9,5,John Wall,PG,"Raleigh, NCWord of God Christian Academy",6'3'',180,,98,Kentucky
+2,PHI,Evan Turner,Ohio State,10,705,18938,6824,3278,2462,0.434,0.294,0.782,26.9,9.7,4.6,3.5,49,Evan Turner,SF,"Westchester, ILSaint Joseph High School",6'6'',185,,96,Ohio State
+3,NJN,Derrick Favors,Georgia Tech,12,790,19202,8354,5608,851,0.534,0.198,0.663,24.3,10.6,7.1,1.1,2,Derrick Favors,PF,"Atlanta, GASouth Atlanta High School",6'9'',220,,98,Georgia Tech
+5,SAC,DeMarcus Cousins,Kentucky,11,654,19509,12802,6664,1979,0.46,0.331,0.737,29.8,19.6,10.2,3,4,DeMarcus Cousins,C,"Mobile, ALLeFlore Magnet High School",6'9'',260,,98,Kentucky
+7,DET,Greg Monroe,Georgetown,10,646,17670,8402,5293,1376,0.514,0.059,0.703,27.4,13,8.2,2.1,20,Greg Monroe,PF,"Gretna, LAHelen Cox High School",6'10'',226,,96,Georgetown
+8,LAC,Al-Farouq Aminu,Wake Forest,11,711,17698,5350,4280,879,0.42,0.332,0.746,24.9,7.5,6,1.2,17,Al-Farouq Aminu,SF,"Norcross, GANorcross High School",6'9'',215,,96,Wake Forest
+11,NOH,Cole Aldrich,Kansas,8,339,3389,1050,1131,183,0.527,,0.738,10,3.1,3.3,0.5,13,Cole Aldrich,C,"Bloomington, MNJefferson High School",6'10'',245,,97,Kansas
+12,MEM,Xavier Henry,Kansas,5,185,2905,1050,351,120,0.406,0.325,0.635,15.7,5.7,1.9,0.6,3,Xavier Henry,SG,"Oklahoma City, OKPutnam City High School",6'6'',225,,98,Kansas
+13,TOR,Ed Davis,UNC,12,722,13756,4291,4616,539,0.567,0,0.583,19.1,5.9,6.4,0.7,11,Ed Davis,PF,"Richmond, VABenedictine College Prep",6'8'',215,,96,N Carolina
+14,HOU,Patrick Patterson,Kentucky,11,719,14923,4782,2799,736,0.447,0.369,0.755,20.8,6.7,3.9,1,9,Patrick Patterson,PF,"Huntington, WVHuntington High School",6'8'',245,,97,Kentucky
+16,MIN,Luke Babbitt,Nevada,8,381,5332,1818,846,224,0.408,0.402,0.747,14,4.8,2.2,0.6,13,Luke Babbitt,PF,"Reno, NVGalena High School",6'7'',220,,96,Nevada
+19,BOS,Avery Bradley,Texas,12,660,18151,7279,1863,1105,0.434,0.365,0.783,27.5,11,2.8,1.7,1,Avery Bradley,SG,"Tacoma, WAFindlay College Prep",6'3'',180,,98,Texas
+20,SAS,James Anderson,Oklahoma State,5,247,4320,1422,560,291,0.411,0.321,0.755,17.5,5.8,2.3,1.2,24,James Anderson,SF,"Junction City, ARJunction City High School",6'5'',190,,97,Oklahoma St
+22,POR,Elliot Williams,Memphis,4,109,1470,537,161,94,0.421,0.31,0.669,13.5,4.9,1.5,0.9,18,Elliot Williams,SG,"Memphis, TNSaint George Academy",6'4'',180,,96,Duke
+29,ORL,Daniel Orton,Kentucky,3,51,542,143,126,24,0.485,0,0.597,10.6,2.8,2.5,0.5,13,Daniel Orton,C,"Oklahoma City, OKBishop McGuinness High School",6'10'',260,,97,Kentucky
+36,DET,Terrico White,Ole Miss,,,,,,,,,,,,,,95,Terrico White,SG,"Memphis, TNCraigmont High School",6'5'',205,,92,Ole Miss
+40,IND,Lance Stephenson,Cincinnati,10,554,12680,4738,2251,1621,0.445,0.314,0.694,22.9,8.6,4.1,2.9,12,Lance Stephenson,SG,"Brooklyn, NYLincoln High School",6'5'',220,,97,Cincinnati
+46,PHO,Gani Lawal,Georgia Tech,1,1,2,0,0,0,,,,2,0,0,0,22,Gani Lawal,PF,"Norcross, GAMontgomery County High School",6'8'',225,,97,Georgia Tech
+50,DAL,Solomon Alabi,Florida State,2,26,181,39,61,5,0.314,,0.7,7,1.5,2.3,0.2,33,Solomon Alabi,C,"Bronx, NYMontverde Academy",7'1'',220,,97,Florida St
+54,LAC,Willie Warren,Oklahoma,1,19,134,37,12,27,0.371,0.333,0.75,7.1,1.9,0.6,1.4,10,Willie Warren,SG,"Fort Worth, TXNorth Crowley High School",6'4'',195,,96,Oklahoma
+1,CLE,Kyrie Irving,Duke,12,641,21900,14870,2486,3645,0.471,0.391,0.883,34.2,23.2,3.9,5.7,3,Kyrie Irving,PG,"West Orange, NJSaint Patrick's High School",6'2'',172,five,97,Duke
+2,MIN,Derrick Williams,Arizona,7,428,8864,3809,1693,293,0.434,0.3,0.71,20.7,8.9,4,0.7,72,Derrick Williams,PF,"La Mirada, CALa Mirada High School",6'8'',215,,92,Arizona
+4,CLE,Tristan Thompson,Texas,11,730,19556,6592,6120,725,0.519,0.263,0.605,26.8,9,8.4,1,10,Tristan Thompson,PF,"Brampton, ONT, CANFindlay College Prep",6'9'',235,five,97,Texas
+8,DET,Brandon Knight,Kentucky,9,451,13202,6301,1385,1777,0.411,0.352,0.807,29.3,14,3.1,3.9,4,Brandon Knight,PG,"Coral Springs, FLPine Crest High School",6'3'',183,five,97,Kentucky
+9,CHA,Kemba Walker,UConn,12,750,24810,14486,2831,3938,0.418,0.36,0.84,33.1,19.3,3.8,5.3,14,Kemba Walker,PG,"Bronx, NYRice High School",6'2'',175,,96,UConn
+11,GSW,Klay Thompson,Washington State,10,679,22313,13314,2381,1582,0.455,0.415,0.851,32.9,19.6,3.5,2.3,53,Klay Thompson,SF,"Rancho Santa Margarita, CASanta Margarita Catholic High School",6'7'',180,,95,Washington St
+15,IND,Kawhi Leonard,San Diego State,11,595,18581,11430,3805,1745,0.493,0.382,0.857,31.2,19.2,6.4,2.9,56,Kawhi Leonard,SF,"Riverside, CAM. L. King High School",6'7'',210,,92,San Diego St
+17,NYK,Iman Shumpert,Georgia Tech,10,461,11470,3320,1534,845,0.391,0.337,0.764,24.9,7.2,3.3,1.8,38,Iman Shumpert,SG,"Oak Park, ILOak Park-River Forest High School",6'4'',185,,96,Georgia Tech
+18,WAS,Chris Singleton,Florida State,3,148,2605,612,472,92,0.376,0.319,0.633,17.6,4.1,3.2,0.6,25,Chris Singleton,PF,"Dunwoody, GADunwoody High School",6'8'',210,,96,Florida St
+19,CHA,Tobias Harris,Tennessee,12,790,24882,12921,4896,1825,0.477,0.368,0.83,31.5,16.4,6.2,2.3,6,Tobias Harris,PF,"Dix Hills, NYHalf Hollow Hills West High School",6'8'',210,five,97,Tennessee
+21,POR,Nolan Smith,Duke,2,84,829,277,83,97,0.371,0.26,0.714,9.9,3.3,1,1.2,6,Nolan Smith,SG,"Mouth of Wilson, VAOak Hill Academy",6'4'',185,,98,Duke
+24,OKC,Reggie Jackson,Boston College,12,742,19078,9624,2217,3163,0.423,0.345,0.857,25.7,13,3,4.3,94,Reggie Jackson,SG,"Colorado Springs, COWilliam J. Palmer High School",6'3'',165,,92,Boston College
+26,DAL,Jordan Hamilton,Texas,5,151,2100,890,429,127,0.408,0.357,0.67,13.9,5.9,2.8,0.8,8,Jordan Hamilton,SF,"Compton, CADominguez High School",6'7'',215,,98,Texas
+27,NJN,JaJuan Johnson,Purdue,1,36,298,114,58,6,0.446,,0.667,8.3,3.2,1.6,0.2,41,JaJuan Johnson,C,"Indianapolis, INFranklin Central High School",6'10'',195,,96,Purdue
+27,NJN,JaJuan Johnson,Purdue,1,36,298,114,58,6,0.446,,0.667,8.3,3.2,1.6,0.2,27,JaJuan Johnson,SG,"Memphis, TNSouthwind High School",6'5'',185,four,89,Marquette
+29,SAS,Cory Joseph,Texas,12,763,16706,5323,1929,2296,0.442,0.342,0.786,21.9,7,2.5,3,16,Cory Joseph,PG,"Pickering, Ont., CANFindlay College Prep",6'3'',180,four,96,Texas
+33,DET,Kyle Singler,Duke,6,356,7794,2326,1026,272,0.418,0.362,0.786,21.9,6.5,2.9,0.8,4,Kyle Singler,SF,"Medford, ORCamden Catholic High School",6'8'',215,,98,Duke
+35,SAC,Tyler Honeycutt,UCLA,2,24,120,28,24,9,0.314,0.2,0.714,5,1.2,1,0.4,51,Tyler Honeycutt,SF,"Sylmar, CASylmar High School",6'8'',180,,93,UCLA
+38,HOU,Chandler Parsons,Florida,9,440,13246,5571,1972,1201,0.462,0.373,0.713,30.1,12.7,4.5,2.7,44,Chandler Parsons,PF,"Winter Park, FLLake Howell High School",6'8'',190,,96,Florida
+40,MIL,Jon Leuer,Wisconsin,8,377,5945,2395,1426,301,0.484,0.328,0.767,15.8,6.4,3.8,0.8,91,Jon Leuer,PF,"Long Lake, MNOrono High School",6'10'',210,,93,Wisconsin
+43,CHI,Malcolm Lee,UCLA,3,36,534,140,65,51,0.382,0.294,0.703,14.8,3.9,1.8,1.4,31,Malcolm Lee,PG,"Riverside, CAJohn W. North High School",6'4'',170,,96,UCLA
+49,MEM,Josh Selby,Kansas,2,38,296,83,20,34,0.33,0.143,0.72,7.8,2.2,0.5,0.9,5,Josh Selby,PG,"Baltimore, MDLake Clifton High School",6'3'',183,five,97,Kansas
+51,POR,Jon Diebler,Ohio State,,,,,,,,,,,,,,40,Jon Diebler,SG,"Upper Sandusky, OHUpper Sandusky High School",6'6'',200,,96,Ohio State
+53,ORL,DeAndre Liggins,Kentucky,5,177,1907,346,252,122,0.402,0.352,0.549,10.8,2,1.4,0.7,57,DeAndre Liggins,SF,"Chicago, ILFindlay College Prep",6'6'',200,,95,Kentucky
+55,BOS,E'Twaun Moore,Purdue,10,598,12564,4743,1208,1055,0.455,0.388,0.742,21,7.9,2,1.8,20,E'Twaun Moore,PG,"East Chicago, INEast Chicago Central High School",6'3'',185,,97,Purdue
+1,NOH,Anthony Davis,Kentucky,11,629,21641,15075,6465,1480,0.518,0.303,0.795,34.4,24,10.3,2.4,1,Anthony Davis,PF,"Chicago, ILPerspectives Charter School",6'10'',200,five,98,Kentucky
+2,CHA,Michael Kidd-Gilchrist,Kentucky,8,446,10978,3750,2420,515,0.474,0.272,0.715,24.6,8.4,5.4,1.2,4,Michael Gilchrist,SF,"Somerdale, NJSaint Patrick's High School",6'7'',210,five,98,Kentucky
+3,WAS,Bradley Beal,Florida,11,669,23224,14780,2724,2825,0.458,0.371,0.823,34.7,22.1,4.1,4.2,5,Bradley Beal,SG,"Saint Louis, MOChaminade College Prep School",6'4'',205,five,98,Florida
+4,CLE,Dion Waiters,Syracuse,8,419,11835,5505,1108,1163,0.412,0.346,0.694,28.2,13.1,2.6,2.8,15,Dion Waiters,SG,"Philadelphia, PALife Center Academy",6'4'',210,four,96,Syracuse
+7,GSW,Harrison Barnes,UNC,11,786,25004,11132,4017,1443,0.454,0.377,0.805,31.8,14.2,5.1,1.8,1,Harrison Barnes,SF,"Ames, IAAmes High School",6'8'',209,five,98,N Carolina
+8,TOR,Terrence Ross,Washington,11,708,17478,7828,1987,890,0.418,0.362,0.837,24.7,11.1,2.8,1.3,30,Terrence Ross,SF,"Portland, ORJefferson High School",6'6'',180,four,95,Washington
+9,DET,Andre Drummond,UConn,11,751,21721,10148,9748,1025,0.541,0.129,0.474,28.9,13.5,13,1.4,2,Andre Drummond,C,"Middletown, CTSt. Thomas More School",6'10'',275,five,98,UConn
+10,NOH,Austin Rivers,Duke,11,686,16472,5906,1410,1483,0.419,0.35,0.654,24,8.6,2.1,2.2,3,Austin Rivers,SG,"Winter Park, FLWinter Park High School",6'4'',189,five,98,Duke
+11,POR,Meyers Leonard,Illinois,9,447,7158,2502,1737,395,0.482,0.39,0.809,16,5.6,3.9,0.9,47,Meyers Leonard,C,"Robinson, ILRobinson High School",7'0'',215,four,95,Illinois
+13,PHO,Kendall Marshall,UNC,4,160,3083,802,253,779,0.399,0.37,0.611,19.3,5,1.6,4.9,22,Kendall Marshall,PG,"Dumfries, VABishop O'Connell High School",6'4'',180,four,95,N Carolina
+14,MIL,John Henson,UNC,8,445,8752,3383,2368,496,0.54,0.25,0.568,19.7,7.6,5.3,1.1,6,John Henson,PF,"Tampa, FLSickles High School",6'10'',195,,98,N Carolina
+15,PHI,Maurice Harkless,St. John's,10,621,14019,4259,2198,572,0.474,0.32,0.624,22.6,6.9,3.5,0.9,39,Maurice Harkless,SF,"Queens, NYSouth Kent School",6'6'',200,four,96,St. John's
+16,HOU,Royce White,Iowa State,1,3,9,0,0,0,0,,,3,0,0,0,35,Royce White,PF,"Minnetonka, MNHopkins High School",6'7'',220,,94,Minnesota
+17,DAL,Tyler Zeller,UNC,8,414,7254,2873,1820,367,0.508,0.286,0.764,17.5,6.9,4.4,0.9,7,Tyler Zeller,PF,"Washington, INWashington High School",6'11'',215,,96,N Carolina
+18,HOU,Terrence Jones,Kentucky,6,234,5562,2431,1334,238,0.501,0.297,0.621,23.8,10.4,5.7,1,9,Terrence Jones,SF,"Portland, ORJefferson High School",6'9'',230,five,97,Kentucky
+21,BOS,Jared Sullinger,Ohio State,5,269,6532,2893,2006,477,0.436,0.272,0.723,24.3,10.8,7.5,1.8,2,Jared Sullinger,PF,"Columbus, OHNorthland High School",6'8'',262,five,98,Ohio State
+23,ATL,John Jenkins,Vanderbilt,6,171,2183,855,250,138,0.441,0.367,0.847,12.8,5,1.5,0.8,21,John Jenkins,SG,"Gallatin, TNStation Camp High School",6'4'',175,,96,Vanderbilt
+25,MEM,Tony Wroten,Washington,4,145,3076,1604,363,437,0.413,0.231,0.647,21.2,11.1,2.5,3,17,Tony Wroten Jr.,PG,"Renton, WAGarfield High School",6'4'',206,five,97,Washington
+26,IND,Miles Plumlee,Duke,7,346,5658,1697,1562,178,0.542,,0.543,16.4,4.9,4.5,0.5,47,Miles Plumlee,PF,"Warsaw, INChrist School",6'10'',210,,96,Duke
+28,OKC,Perry Jones,Baylor,3,143,1675,488,252,54,0.42,0.293,0.66,11.7,3.4,1.8,0.4,7,Perry Jones,PF,"Duncanville, TXDuncanville High School",6'11'',220,five,97,Baylor
+29,CHI,Marquis Teague,Kentucky,3,91,909,217,90,134,0.343,0.222,0.661,10,2.4,1,1.5,8,Marquis Teague,PG,"Indianapolis, INPike High School",6'2'',175,five,98,Kentucky
+31,CHA,Jeff Taylor,Vanderbilt,3,132,2566,807,263,107,0.409,0.319,0.665,19.4,6.1,2,0.8,69,Jeff Taylor,SF,"Hobbs, NMHobbs High School",6'7'',190,,93,Vanderbilt
+35,GSW,Draymond Green,Michigan State,11,722,20672,6244,5007,3981,0.443,0.315,0.711,28.6,8.6,6.9,5.5,36,Draymond Green,PF,"Saginaw, MISaginaw High School",6'6'',225,,96,Michigan St
+38,DEN,Quincy Miller,Baylor,3,69,934,295,169,37,0.35,0.292,0.706,13.5,4.3,2.4,0.5,7,Quincy Miller,PF,"North Chicago, ILWestchester Country Day School",6'9'',210,five,98,Baylor
+39,DET,Khris Middleton,Texas A&M,11,658,20863,11214,3184,2492,0.457,0.39,0.881,31.7,17,4.8,3.8,82,Khris Middleton,SF,"North Charleston, SCPorter-Gaud School",6'7'',195,,91,Texas A&M
+40,POR,Will Barton,Memphis,11,658,16840,7516,2753,1794,0.431,0.355,0.787,25.6,11.4,4.2,2.7,8,Will Barton,SG,"Baltimore, MDBrewster Academy",6'6'',170,five,97,Memphis
+41,POR,Tyshawn Taylor,Kansas,2,61,491,174,33,57,0.354,0.36,0.684,8,2.9,0.5,0.9,86,Tyshawn Taylor,PG,"Jersey City, NJSt. Anthony High School",6'2'',185,,92,Kansas
+42,MIL,Doron Lamb,Kentucky,2,100,1272,345,95,75,0.381,0.394,0.7,12.7,3.5,1,0.8,29,Doron Lamb,SG,"Laurelton, NYOak Hill Academy",6'4'',183,four,95,Kentucky
+46,NOH,Darius Miller,Kentucky,6,271,5358,1597,447,367,0.419,0.383,0.84,19.8,5.9,1.6,1.4,33,Darius Miller,SF,"Maysville, KYMason County High School",6'7'',225,,96,Kentucky
+51,BOS,Kris Joseph,Syracuse,1,10,54,9,7,1,0.143,0,0.625,5.4,0.9,0.7,0.1,50,Kris Joseph,SF,"Washington, DCArchbishop Carroll High School",6'7'',210,,96,Syracuse
+58,MIN,Robbie Hummel,Purdue,2,98,1397,379,266,50,0.418,0.343,0.867,14.3,3.9,2.7,0.5,72,Robbie Hummel,SF,"Valparaiso, INValparaiso High School",6'8'',200,,93,Purdue
+1,CLE,Anthony Bennett,UNLV,4,151,1905,658,472,77,0.392,0.261,0.67,12.6,4.4,3.1,0.5,7,Anthony Bennett,PF,"Brampton, ONT, CANFindlay College Prep",6'8'',230,five,97,UNLV
+4,CHA,Cody Zeller,Indiana,9,494,10973,4202,2949,691,0.52,0.221,0.731,22.2,8.5,6,1.4,14,Cody Zeller,PF,"Washington, INWashington High School",6'11'',210,five,97,Indiana
+6,NOH,Nerlens Noel,Kentucky,9,460,10188,3326,2817,495,0.548,0.2,0.655,22.1,7.2,6.1,1.1,1,Nerlens Noel,C,"Everett, MAThe Tilton School",6'10'',215,five,98,Kentucky
+7,SAC,Ben McLemore,Kansas,9,556,12534,5015,1269,563,0.414,0.363,0.78,22.5,9,2.3,1,49,Ben McLemore,SF,"Saint Louis, MOChristian Life Center Academy",6'5'',185,four,95,Kansas
+8,DET,Kentavious Caldwell-Pope,Georgia,10,722,21200,8360,2267,1240,0.423,0.365,0.814,29.4,11.6,3.1,1.7,24,Kentavious Caldwell-Pope,SG,"Greenville, GAGreenville High School",6'4'',190,four,96,Georgia
+9,MIN,Trey Burke,Michigan,9,498,10401,4792,878,1522,0.41,0.345,0.81,20.9,9.6,1.8,3.1,84,Trey Burke,PG,"Columbus, OHNorthland High School",6'1'',170,four,93,Michigan
+11,PHI,Michael Carter-Williams,Syracuse,8,391,9898,4023,1713,1701,0.402,0.255,0.706,25.3,10.3,4.4,4.4,21,Michael Carter-Williams,SG,"Hamilton, MASt. Andrew's School",6'5'',175,five,97,Syracuse
+12,OKC,Steven Adams,Pitt,10,700,18779,6450,5709,1062,0.586,0.067,0.536,26.8,9.2,8.2,1.5,6,Steven Adams,C,"New Zealand, SPNotre Dame Prep",6'10'',235,five,97,Pittsburgh
+14,UTA,Shabazz Muhammad,UCLA,5,278,4772,2504,770,151,0.473,0.319,0.751,17.2,9,2.8,0.5,2,Shabazz Muhammad,SF,"Las Vegas, NVBishop Gorman High School",6'6'',215,five,98,UCLA
+22,BRK,Mason Plumlee,Duke,10,703,15942,5954,4777,1765,0.589,0.049,0.56,22.7,8.5,6.8,2.5,10,Mason Plumlee,C,"Warsaw, INChrist School",6'11'',220,,98,Duke
+23,IND,Solomon Hill,Arizona,9,448,9652,2453,1399,662,0.388,0.331,0.797,21.5,5.5,3.1,1.5,54,Solomon Hill,SF,"Los Angeles, CAFairfax High School",6'6'',210,,92,Arizona
+25,LAC,Reggie Bullock,UNC,10,474,10926,3592,1228,570,0.422,0.379,0.829,23.1,7.6,2.6,1.2,18,Reggie Bullock,SG,"Kinston, NCKinston High School",6'6'',190,four,96,N Carolina
+29,OKC,Archie Goodwin,Kentucky,4,165,2396,1040,331,206,0.429,0.236,0.7,14.5,6.3,2,1.2,15,Archie Goodwin,SG,"Little Rock, ARSylvan Hills High School",6'5'',181,five,97,Kentucky
+31,CLE,Allen Crabbe,California,7,381,9125,3453,1073,434,0.425,0.387,0.831,24,9.1,2.8,1.1,57,Allen Crabbe,SG,"Los Angeles, CAPrice High School",6'6'',190,four,94,California
+36,SAC,Ray McCallum,Detroit Mercy,3,154,2808,920,306,368,0.408,0.335,0.711,18.2,6,2,2.4,17,Ray McCallum,PG,"Beverly Hills, MIDetroit Country Day School",6'1'',179,four,96,Detroit Mercy
+37,DET,Tony Mitchell,University of North Texas,1,21,79,22,26,2,0.417,1,0.579,3.8,1,1.2,0.1,54,Tony Mitchell,SF,"Swainsboro, GASwainsboro High School",6'6'',185,,95,Alabama
+37,DET,Tony Mitchell,University of North Texas,1,21,79,22,26,2,0.417,1,0.579,3.8,1,1.2,0.1,24,Tony Mitchell,PF,"Dallas, TXL. G. Pinkston High School",6'8'',215,four,95,North Texas
+39,POR,Jeff Withey,Kansas,5,206,2072,666,518,64,0.525,0.143,0.716,10.1,3.2,2.5,0.3,43,Jeff Withey,C,"San Diego, CAHorizon High School",6'11'',215,,96,Arizona
+40,POR,Grant Jerrett,Arizona,1,8,51,16,9,3,0.269,0.067,1,6.4,2,1.1,0.4,9,Grant Jerrett,PF,"La Verne, CALa Verne Lutheran High School",6'10'',220,five,97,Arizona
+48,LAL,Ryan Kelly,Duke,4,163,3125,981,504,215,0.378,0.316,0.797,19.2,6,3.1,1.3,17,Ryan Kelly,PF,"Raleigh, NCRavenscroft School",6'10'',210,,97,Duke
+49,CHI,Erik Murphy,Florida,1,24,62,6,8,2,0.231,0,,2.6,0.3,0.3,0.1,38,Erik Murphy,PF,"South Kingstown, RISaint Mark's School",6'10'',225,,94,Florida
+51,ORL,Romero Osby,Oklahoma,,,,,,,,,,,,,,51,Romero Osby,PF,"Meridian, MSNortheast Lauderdale High School",6'7'',200,,96,Miss. St
+52,MIN,Lorenzo Brown,NC State,5,103,1185,293,151,183,0.364,0.17,0.707,11.5,2.8,1.5,1.8,29,Lorenzo Brown,SG,"Roswell, GACentennial High School",6'4'',180,,95,List
+56,DET,Peyton Siva,Louisville,1,24,224,54,14,34,0.316,0.28,0.733,9.3,2.3,0.6,1.4,25,Peyton Siva,PG,"Seattle, WAFranklin High School",5'11'',180,,96,Louisville
+57,PHO,Alex Oriakhi,Missouri,,,,,,,,,,,,,,20,Alex Oriakhi,C,"Lowell, MAThe Tilton School",6'8'',230,,96,UConn
+58,SAS,Deshaun Thomas,Ohio State,,,,,,,,,,,,,,12,Deshaun Thomas,SF,"Fort Wayne, INBishop Luers High School",6'7'',221,four,96,Ohio State
+1,CLE,Andrew Wiggins,Kansas,9,622,21705,11961,2770,1445,0.45,0.355,0.722,34.9,19.2,4.5,2.3,1,Andrew Wiggins,SF,"Thornhill, Ont., CANHuntington Prep",6'7'',205,five,97,Kansas
+2,MIL,Jabari Parker,Duke,8,310,8535,4380,1703,610,0.494,0.326,0.743,27.5,14.1,5.5,2,2,Jabari Parker,SF,"Chicago, ILSimeon Career Academy",6'8'',220,five,96,Duke
+3,PHI,Joel Embiid,Kansas,7,357,11257,9509,4018,1209,0.494,0.338,0.815,31.5,26.6,11.3,3.4,6,Joel Embiid,C,"Gainesville, FLThe Rock School",6'11'',230,five,95,Kansas
+4,ORL,Aaron Gordon,Arizona,9,563,16323,7469,3557,1394,0.468,0.325,0.697,29,13.3,6.3,2.5,4,Aaron Gordon,PF,"San Jose, CAArchbishop Mitty High School",6'8'',210,five,96,Arizona
+6,BOS,Marcus Smart,Oklahoma State,9,556,16659,5836,1988,2576,0.385,0.323,0.779,30,10.5,3.6,4.6,10,Marcus Smart,SG,"Flower Mound, TXMarcus High School",6'3'',200,five,97,Oklahoma St
+7,LAL,Julius Randle,Kentucky,9,559,17594,10191,5230,1999,0.471,0.334,0.744,31.5,18.2,9.4,3.6,3,Julius Randle,PF,"McKinney, TXPrestonwood Christian Academy",6'9'',225,five,96,Kentucky
+8,SAC,Nik Stauskas,Michigan,6,343,6701,2290,691,515,0.389,0.354,0.812,19.5,6.7,2,1.5,76,Nik Stauskas,SF,"Mississauga, Ont., CANSaint Mark's School",6'6'',205,four,92,Michigan
+9,CHH,Noah Vonleh,Indiana,8,362,5854,1685,1790,264,0.459,0.307,0.692,16.2,4.7,4.9,0.7,13,Noah Vonleh,PF,"Haverhill, MANew Hampton School",6'8'',220,five,93,Indiana
+13,MIN,Zach LaVine,UCLA,9,515,16528,10333,2039,2019,0.461,0.387,0.831,32.1,20.1,4,3.9,50,Zach LaVine,PG,"Bothell, WABothell High School",6'3'',165,four,88,UCLA
+14,PHO,T.J. Warren,NC State,8,348,9871,5300,1423,419,0.508,0.356,0.782,28.4,15.2,4.1,1.2,29,T.J. Warren,SF,"Durham, NCBrewster Academy",6'7'',205,four,96,NC State
+15,ATL,Adreian Payne,Michigan State,4,107,1403,429,315,66,0.406,0.254,0.68,13.1,4,2.9,0.6,26,Adreian Payne,PF,"Dayton, OHJefferson Township High School",6'9'',215,four,95,Michigan St
+17,BOS,James Young,Kentucky,4,95,812,219,96,28,0.367,0.277,0.563,8.5,2.3,1,0.3,8,James Young,SF,"Rochester, MIRochester High School",6'6'',210,five,94,Kentucky
+18,PHO,Tyler Ennis,Syracuse,4,186,2336,779,250,359,0.419,0.317,0.768,12.6,4.2,1.3,1.9,20,Tyler Ennis,PG,"Brampton, ONT, CANSaint Benedict's Prep",6'2'',180,five,91,Syracuse
+19,CHI,Gary Harris,Michigan State,9,482,13815,5652,1194,985,0.448,0.363,0.814,28.7,11.7,2.5,2,11,Gary Harris,SG,"Indianapolis, INHamilton Southeastern High School",6'4'',195,five,97,Michigan St
+21,OKC,Mitch McGary,Michigan,2,52,557,227,183,17,0.527,0,0.58,10.7,4.4,3.5,0.3,27,Mitch McGary,PF,"Chesterton, INBrewster Academy",6'10'',225,four,96,Michigan
+22,MEM,Jordan Adams,UCLA,2,32,263,101,30,19,0.402,0.385,0.607,8.2,3.2,0.9,0.6,41,Jordan Adams,SF,"Lawrenceville, GAOak Hill Academy",6'5'',220,four,95,UCLA
+23,UTA,Rodney Hood,Duke,8,448,10977,4656,1160,736,0.42,0.366,0.841,24.5,10.4,2.6,1.6,31,Rodney Hood,SF,"Meridian, MSMeridian High School",6'7'',190,four,96,Miss. St
+26,MIA,P.J. Hairston,UNC,2,111,2000,664,266,59,0.343,0.295,0.81,18,6,2.4,0.5,13,P.J. Hairston,SG,"Greensboro, NCHargrave Military Academy",6'5'',220,five,97,N Carolina
+30,SAS,Kyle Anderson,UCLA,9,536,11374,3610,2352,1283,0.477,0.339,0.72,21.2,6.7,4.4,2.4,5,Kyle Anderson,SF,"Fairview, NJSt. Anthony High School",6'7'',210,five,97,UCLA
+36,MIL,Johnny O'Bryant,LSU,4,147,1684,509,352,69,0.402,0.36,0.663,11.5,3.5,2.4,0.5,46,Johnny O'Bryant,PF,"Cleveland, MSEast Side High School",6'10'',245,four,95,LSU
+39,PHI,Jerami Grant,Syracuse,9,593,15824,7162,2356,844,0.456,0.358,0.731,26.7,12.1,4,1.4,37,Jerami Grant,PF,"Hyattsville, MDDeMatha Catholic High School",6'7'',200,four,96,Syracuse
+40,MIN,Glenn Robinson III,Michigan,7,304,5299,1804,776,238,0.457,0.373,0.779,17.4,5.9,2.6,0.8,,,,,,,,,
+42,HOU,Nick Johnson,Arizona,1,28,262,74,39,11,0.347,0.238,0.68,9.4,2.6,1.4,0.4,22,Nick Johnson,SG,"Gilbert, AZFindlay College Prep",6'3'',185,five,97,Arizona
+45,CHH,Dwight Powell,Stanford,9,548,10363,4144,2491,546,0.591,0.294,0.748,18.9,7.6,4.5,1,40,Dwight Powell,PF,"Toronto, Ontario, CANIMG Academy",6'10'',212,four,95,Stanford
+48,MIL,Lamar Patterson,Pitt,2,40,435,93,57,45,0.326,0.236,0.72,10.9,2.3,1.4,1.1,94,Lamar Patterson,SF,"Lancaster, PASaint Benedict's Prep",6'5'',220,,91,Pittsburgh
+58,SAS,Jordan McRae,Tennessee,4,123,1696,846,225,167,0.417,0.355,0.772,13.8,6.9,1.8,1.4,38,Jordan McRae,SG,"Hinesville, GALiberty County High School",6'5'',175,four,95,Tennessee
+60,SAS,Cory Jefferson,Baylor,2,58,581,205,161,16,0.444,0.125,0.583,10,3.5,2.8,0.3,89,Cory Jefferson,PF,"Killeen, TXKilleen High School",6'9'',190,,91,Baylor
+1,MIN,Karl-Anthony Towns,Kentucky,8,503,17181,11606,5637,1597,0.527,0.393,0.835,34.2,23.1,11.2,3.2,9,Karl Towns Jr.,C,"Metuchen, NJSt. Joseph High School",6'11'',235,five,97,Kentucky
+2,LAL,D'Angelo Russell,Ohio State,8,462,13718,8155,1626,2613,0.422,0.356,0.788,29.7,17.7,3.5,5.7,13,D'Angelo Russell,SG,"Louisville, KYMontverde Academy",6'4'',180,five,96,Ohio State
+3,PHI,Jahlil Okafor,Duke,6,247,4827,2566,1169,225,0.542,0.222,0.676,19.5,10.4,4.7,0.9,1,Jahlil Okafor,C,"Chicago, ILWhitney Young High School",6'10'',265,five,97,Duke
+7,DEN,Emmanuel Mudiay,,6,302,7187,3299,884,1143,0.401,0.323,0.744,23.8,10.9,2.9,3.8,5,Emmanuel Mudiay,PG,"Dallas, TXPrime Prep Academy",6'5'',190,five,97,List
+8,DET,Stanley Johnson,Arizona,8,433,8604,2722,1346,641,0.388,0.304,0.751,19.9,6.3,3.1,1.5,7,Stanley Johnson,SF,"Fullerton, CAMater Dei High School",6'6'',225,five,97,Arizona
+10,MIA,Justise Winslow,Duke,8,344,8905,2829,1760,889,0.412,0.315,0.638,25.9,8.2,5.1,2.6,15,Justise Winslow,SF,"Houston, TXSaint John's High School",6'6'',218,five,95,Duke
+11,IND,Myles Turner,Texas,8,466,13422,6081,3155,564,0.494,0.352,0.77,28.8,13,6.8,1.2,2,Myles Turner,C,"Bedford, TXTrinity High School",7'0'',240,five,97,Texas
+12,UTA,Trey Lyles,Kentucky,8,482,8696,3708,2070,505,0.44,0.339,0.738,18,7.7,4.3,1,6,Trey Lyles,PF,"Indianapolis, INArsenal Technical High School",6'10'',255,five,97,Kentucky
+13,PHO,Devin Booker,Kentucky,8,506,17074,12003,1999,2389,0.458,0.358,0.869,33.7,23.7,4,4.7,18,Devin Booker,SG,"Moss Point, MSMoss Point High School",6'5'',185,five,93,Kentucky
+15,ATL,Kelly Oubre Jr.,Kansas,8,514,13202,6475,2253,526,0.433,0.329,0.746,25.7,12.6,4.4,1,,,,,,,,,
+16,BOS,Terry Rozier,Louisville,8,509,13573,6712,2003,1678,0.416,0.371,0.824,26.7,13.2,3.9,3.3,74,Terry Rozier,PG,"Shaker Heights, OHShaker Heights High School",6'1'',165,four,92,List
+17,MIL,Rashad Vaughn,UNLV,3,139,1671,423,158,75,0.337,0.313,0.692,12,3,1.1,0.5,19,Rashad Vaughn,SG,"Golden Valley, MNFindlay College Prep",6'6'',200,five,93,UNLV
+18,HOU,Sam Dekker,Wisconsin,5,201,3097,1094,607,160,0.478,0.288,0.606,15.4,5.4,3,0.8,17,Sam Dekker,SF,"Sheboygan, WISheboygan Lutheran High School",6'7'',195,five,97,Wisconsin
+19,WAS,Jerian Grant,Notre Dame,5,279,4998,1692,530,805,0.411,0.323,0.77,17.9,6.1,1.9,2.9,96,Jerian Grant,SF,"Hyattsville, MDDeMatha Catholic High School",6'4'',175,four,93,Notre Dame
+21,DAL,Justin Anderson,Virginia,6,242,3280,1284,621,184,0.41,0.292,0.775,13.6,5.3,2.6,0.8,49,Justin Anderson,SF,"Rockville, MDMontrose Christian School",6'5'',210,four,94,Virginia
+22,CHI,Bobby Portis,Arkansas,8,493,10888,5585,3400,609,0.473,0.377,0.757,22.1,11.3,6.9,1.2,16,Bobby Portis,PF,"Little Rock, ARHall High School",6'9'',225,five,92,Arkansas
+23,POR,Rondae Hollis-Jefferson,Arizona,6,305,6759,2760,1684,579,0.449,0.212,0.735,22.2,9,5.5,1.9,21,Rondae Hollis-Jefferson,SF,"Chester, PAChester High School",6'7'',215,five,91,Arizona
+24,CLE,Tyus Jones,Duke,8,495,9332,3239,891,1883,0.437,0.358,0.813,18.9,6.5,1.8,3.8,4,Tyus Jones,PG,"Apple Valley, MNApple Valley High School",6'1'',171,five,97,Duke
+25,MEM,Jarell Martin,LSU,4,184,2927,998,639,114,0.434,0.346,0.766,15.9,5.4,3.5,0.6,11,Jarrell Martin,PF,"Baton Rouge, LAMadison Prep Academy",6'7'',210,five,93,LSU
+29,BRK,Chris McCullough,Syracuse,3,59,532,194,112,15,0.426,0.306,0.548,9,3.3,1.9,0.3,24,Chris McCullough,PF,"Bronx, NYIMG Academy",6'10'',220,five,92,Syracuse
+30,GSW,Kevon Looney,UCLA,8,408,6968,1990,2096,613,0.574,0.172,0.611,17.1,4.9,5.1,1.5,12,Kevon Looney,PF,"Milwaukee, WIMilwaukee Hamilton High School",6'8'',200,five,96,UCLA
+32,HOU,Montrezl Harrell,Louisville,8,494,10320,6120,2529,667,0.619,0.114,0.665,20.9,12.4,5.1,1.4,90,Montrezl Harrell,PF,"Tarboro, NCHargrave Military Academy",6'8'',215,four,92,Louisville
+33,BOS,Jordan Mickey,LSU,3,64,482,152,128,17,0.449,0.118,0.605,7.5,2.4,2,0.3,38,Jordan Mickey,PF,"Arlington, TXPrime Prep Academy",6'8'',220,four,88,LSU
+34,LAL,Anthony Brown,Stanford,3,41,762,161,103,28,0.328,0.286,0.85,18.6,3.9,2.5,0.7,81,Anthony Brown,SF,"Huntington Beach, CAOcean View High School",6'6'',180,four,94,Stanford
+36,MIN,Rakeem Christmas,Syracuse,2,30,225,63,57,4,0.467,,0.724,7.5,2.1,1.9,0.1,20,Rakeem Christmas,C,"Philadelphia, PAAcademy of the New Church",6'9'',222,five,97,Syracuse
+44,PHO,Andrew Harrison,Kentucky,3,145,2987,1012,287,399,0.373,0.294,0.779,20.6,7,2,2.8,5,Andrew Harrison,PG,"Richmond, TXTravis High School",6'5'',210,five,96,Kentucky
+46,MIL,Norman Powell,UCLA,8,454,10253,5287,1184,680,0.464,0.385,0.824,22.6,11.6,2.6,1.5,52,Norman Powell,SG,"San Diego, CAAbraham Lincoln High School",6'2'',175,four,95,UCLA
+48,OKC,Dakari Johnson,Kentucky,1,31,161,55,34,8,0.564,,0.55,5.2,1.8,1.1,0.3,7,Dakari Johnson,C,"Bronx, NYMontverde Academy",6'10'',250,five,95,Kentucky
+56,NOP,Branden Dawson,Michigan State,1,6,29,5,4,0,0.4,,1,4.8,0.8,0.7,0,23,Branden Dawson,SF,"Gary, INLew Wallace High School",6'6'',220,four,96,Michigan St
+58,PHI,J.P. Tokoto,UNC,,,,,,,,,,,,,,70,J.P. Tokoto,SF,"Menomonee Falls, WIMenomonee Falls High School",6'6'',195,four,93,N Carolina
+1,PHI,Ben Simmons,LSU,5,305,10142,4613,2417,2306,0.561,0.143,0.591,33.3,15.1,7.9,7.6,1,Ben Simmons,PF,"Melbourne, AUSMontverde Academy",6'9'',225,five,97,LSU
+2,LAL,Brandon Ingram,Duke,7,383,12561,7124,1972,1482,0.461,0.365,0.773,32.8,18.6,5.1,3.9,3,Brandon Ingram,SF,"Kinston, NCKinston High School",6'8'',198,five,96,Duke
+3,BOS,Jaylen Brown,California,7,442,12942,7689,2265,950,0.475,0.367,0.723,29.3,17.4,5.1,2.1,4,Jaylen Brown,SF,"Alpharetta, GAWheeler High School",6'7'',220,five,96,California
+5,MIN,Kris Dunn,Providence,6,245,5897,1995,815,1029,0.42,0.299,0.739,24.1,8.1,3.3,4.2,23,Kris Dunn,PG,"New London, CTNew London High School",6'3'',180,four,96,Providence
+8,SAC,Marquese Chriss,Washington,6,292,5338,2206,1366,298,0.456,0.29,0.667,18.3,7.6,4.7,1,60,Marquese Chriss,PF,"Elk Grove, CAPleasant Grove High School",6'8'',200,four,85,Washington
+14,CHI,Denzel Valentine,Michigan State,5,256,4817,1795,857,466,0.394,0.36,0.787,18.8,7,3.3,1.8,98,Denzel Valentine,SF,"Lansing, MISexton High School",6'5'',205,four,92,Michigan St
+18,DET,Henry Ellenson,Marquette,5,83,787,342,206,49,0.371,0.336,0.773,9.5,4.1,2.5,0.6,5,Henry Ellenson,PF,"Rice Lake, WIRice Lake High School",6'10'',230,five,96,Marquette
+19,DEN,Malik Beasley,Florida State,7,380,8200,4105,981,492,0.426,0.381,0.82,21.6,10.8,2.6,1.3,28,Malik Beasley,SG,"Atlanta, GASt. Francis High School",6'4'',185,four,88,Florida St
+22,CHO,Malachi Richardson,Syracuse,3,70,625,198,70,24,0.358,0.301,0.783,8.9,2.8,1,0.3,23,Malachi Richardson,SG,"Hamilton, NJTrenton Catholic Academy",6'6'',190,four,89,Syracuse
+25,LAC,Brice Johnson,UNC,2,21,107,47,34,3,0.449,0,0.6,5.1,2.2,1.6,0.1,34,Brice Johnson,PF,"Cordova, SCEdisto High School",6'9'',210,four,96,N Carolina
+28,PHO,Skal Labissière,Kentucky,4,148,2595,1069,662,152,0.492,0.353,0.748,17.5,7.2,4.5,1,,,,,,,,,
+29,SAS,Dejounte Murray,Washington,6,355,9532,4706,2109,1755,0.454,0.333,0.78,26.9,13.3,5.9,4.9,49,Dejounte Murray,SG,"Seattle, WARainier Beach High School",6'5'',175,four,86,Washington
+30,GSW,Damian Jones,Vanderbilt,7,218,3204,1172,739,167,0.659,0.283,0.704,14.7,5.4,3.4,0.8,81,Damian Jones,PF,"Baton Rouge, LAScotlandville Magnet High School",6'9'',220,four,84,Vanderbilt
+31,BOS,Deyonta Davis,Michigan State,3,107,1299,454,346,47,0.599,0,0.635,12.1,4.2,3.2,0.4,22,Deyonta Davis,PF,"Muskegon, MIMuskegon High School",6'9'',210,four,89,Michigan St
+33,LAC,Cheick Diallo,Kansas,5,183,2186,958,759,78,0.596,0.286,0.774,11.9,5.2,4.1,0.4,7,Cheick Diallo,PF,"Centereach, NYOur Savior New American School",6'9'',225,five,95,Kansas
+34,PHO,Tyler Ulis,Kentucky,3,133,2782,998,223,537,0.403,0.28,0.808,20.9,7.5,1.7,4,25,Tyler Ulis,PG,"Matteson, ILMarian Catholic High School",5'9'',150,five,92,Kentucky
+36,MIL,Malcolm Brogdon,Virginia,7,368,10877,5628,1543,1731,0.464,0.382,0.881,29.6,15.3,4.2,4.7,73,Malcolm Brogdon,SG,"Norcross, GAGreater Atlanta Christian School",6'5'',205,four,94,Virginia
+37,HOU,Chinanu Onuaku,Louisville,2,6,74,18,14,4,0.583,,1,12.3,3,2.3,0.7,75,Chinanu Onuaku,C,"Upper Marlboro, MDRiverdale Baptist High School",6'10'',220,four,83,Louisville
+40,NOP,Diamond Stone,Maryland,1,7,24,10,6,0,0.231,,1,3.4,1.4,0.9,0,6,Diamond Stone,C,"Milwaukee, WIDominican High School",6'10'',250,five,95,Maryland
+41,ORL,Stephen Zimmerman,UNLV,1,19,108,23,35,4,0.323,,0.6,5.7,1.2,1.8,0.2,12,Stephen Zimmerman,C,"Las Vegas, NVBishop Gorman High School",7'0'',230,five,92,UNLV
+42,UTA,Isaiah Whitehead,Seton Hall,2,89,1823,643,210,212,0.411,0.305,0.788,20.5,7.2,2.4,2.4,14,Isaiah Whitehead,SG,"Brooklyn, NYLincoln High School",6'4'',195,five,95,Seton Hall
+45,BOS,Demetrius Jackson,Notre Dame,3,26,136,48,19,17,0.486,0.286,0.667,5.2,1.8,0.7,0.7,24,Demetrius Jackson,PG,"Mishawaka, INMarian High School",6'1'',170,four,89,Notre Dame
+46,DAL,A.J. Hammons,Purdue,1,22,163,48,36,4,0.405,0.5,0.45,7.4,2.2,1.6,0.2,82,A.J. Hammons,C,"Carmel, INOak Hill Academy",7'0'',275,four,92,Purdue
+47,ORL,Jake Layman,Maryland,6,243,3099,1175,417,127,0.46,0.3,0.719,12.8,4.8,1.7,0.5,67,Jake Layman,SF,"Wrentham, MAKing Philip Regional High School",6'8'',190,four,93,Maryland
+49,DET,Michael Gbinije,Syracuse,1,9,32,4,3,2,0.1,0,1,3.6,0.4,0.3,0.2,29,Michael Gbinije,SF,"Chester, VABenedictine College Prep",6'6'',194,four,96,Duke
+50,IND,Georges Niang,Iowa State,7,343,5216,2215,709,288,0.439,0.406,0.881,15.2,6.5,2.1,0.8,56,Georges Niang,PF,"Methuen, MAThe Tilton School",6'7'',230,four,94,Iowa State
+55,BRK,Marcus Paige,UNC,1,5,28,12,4,3,0.286,0.25,1,5.6,2.4,0.8,0.6,22,Marcus Paige,PG,"Marion, IALinn-Mar High School",6'1'',160,four,96,N Carolina
+56,DEN,Daniel Hamilton,UConn,2,25,232,69,52,30,0.394,0.357,0.5,9.3,2.8,2.1,1.2,30,Daniel Hamilton,SG,"Los Angeles, CASt. John Bosco High School",6'6'',175,four,89,UConn
+1,PHI,Markelle Fultz,Washington,6,152,3834,1675,512,740,0.456,0.27,0.706,25.2,11,3.4,4.9,7,Markelle Fultz,PG,"Upper Marlboro, MDDeMatha Catholic High School",6'4'',190,five,96,Washington
+2,LAL,Lonzo Ball,UCLA,5,252,8187,2995,1447,1563,0.4,0.364,0.578,32.5,11.9,5.7,6.2,4,Lonzo Ball,PG,"Chino Hills, CAChino Hills High School",6'5'',195,five,96,UCLA
+3,BOS,Jayson Tatum,Duke,6,404,13615,8842,2736,1270,0.458,0.379,0.847,33.7,21.9,6.8,3.1,3,Jayson Tatum,SF,"Saint Louis, MOChaminade College Prep",6'8'',175,five,97,Duke
+4,PHO,Josh Jackson,Kansas,5,291,6718,3276,1159,534,0.416,0.292,0.68,23.1,11.3,4,1.8,2,Josh Jackson,SF,"Southfield, MIProlific Prep",6'7'',185,five,97,Kansas
+5,SAC,De'Aaron Fox,Kentucky,6,358,11514,7005,1300,2222,0.466,0.32,0.733,32.2,19.6,3.6,6.2,6,De'Aaron Fox,PG,"Katy, TXCypress Lakes High School",6'3'',160,five,96,Kentucky
+6,ORL,Jonathan Isaac,Florida State,3,136,3512,1269,741,146,0.435,0.33,0.797,25.8,9.3,5.4,1.1,12,Jonathan Isaac,SF,"Naples, FLIMG Academy",6'10'',185,five,94,Florida St
+10,SAC,Zach Collins,Gonzaga,5,212,3814,1384,938,275,0.47,0.332,0.736,18,6.5,4.4,1.3,38,Zach Collins,C,"Las Vegas, NVBishop Gorman High School",6'11'',220,four,88,Gonzaga
+11,CHO,Malik Monk,Kentucky,6,347,7175,3711,809,777,0.427,0.35,0.845,20.7,10.7,2.3,2.2,9,Malik Monk,SG,"Bentonville, ARBentonville High School",6'3'',185,five,96,Kentucky
+12,DET,Luke Kennard,Duke,6,326,7613,3219,920,638,0.452,0.428,0.874,23.4,9.9,2.8,2,24,Luke Kennard,SG,"Franklin, OHFranklin High School",6'5'',180,four,89,Duke
+13,DEN,Donovan Mitchell,Louisville,6,382,12988,9318,1579,1721,0.446,0.366,0.839,34,24.4,4.1,4.5,43,Donovan Mitchell,SG,"Greenwich, CTBrewster Academy",6'2'',185,four,86,Louisville
+14,MIA,Bam Adebayo,Kentucky,6,380,10967,5410,3217,1305,0.555,0.133,0.749,28.9,14.2,8.5,3.4,5,Bam Adebayo,PF,"Pinetown, NCHigh Point Christian Academy",6'9'',240,five,96,Kentucky
+15,POR,Justin Jackson,UNC,6,272,4855,1671,645,284,0.424,0.321,0.796,17.8,6.1,2.4,1,86,Justin Jackson,PF,"Jacksonville, FLArlington Country Day School",6'8'',210,four,94,Cincinnati
+15,POR,Justin Jackson,UNC,6,272,4855,1671,645,284,0.424,0.321,0.796,17.8,6.1,2.4,1,8,Justin Jackson,SF,"Tomball, TXHomeschool Christian Youth Association",6'7'',185,five,97,N Carolina
+43,DEN,Justin Jackson,Maryland,,,,,,,,,,,,,,86,Justin Jackson,PF,"Jacksonville, FLArlington Country Day School",6'8'',210,four,94,Cincinnati
+43,DEN,Justin Jackson,Maryland,,,,,,,,,,,,,,8,Justin Jackson,SF,"Tomball, TXHomeschool Christian Youth Association",6'7'',185,five,97,N Carolina
+18,IND,T.J. Leaf,UCLA,4,146,1238,477,283,43,0.492,0.341,0.585,8.5,3.3,1.9,0.3,13,T.J. Leaf,PF,"El Cajon, CAFoothills Christian High School",6'9'',215,five,94,UCLA
+20,POR,Harry Giles,Duke,3,142,1835,832,543,174,0.511,0.258,0.671,12.9,5.9,3.8,1.2,1,Harry Giles,PF,"Winston-Salem, NCOak Hill Academy",6'10'',230,five,97,Duke
+21,OKC,Terrance Ferguson,,4,204,4000,924,263,144,0.404,0.334,0.753,19.6,4.5,1.3,0.7,11,Terrance Ferguson,SG,"Dallas, TXAdvanced Prep International",6'7'',185,five,94,List
+22,BRK,Jarrett Allen,Texas,6,376,10210,4407,3308,520,0.625,0.178,0.699,27.2,11.7,8.8,1.4,15,Jarrett Allen,C,"Austin, TXSaint Stephen's Episcopal School",6'10'',220,five,93,Texas
+24,UTA,Tyler Lydon,Syracuse,2,26,96,23,18,6,0.5,0.4,0.333,3.7,0.9,0.7,0.2,76,Tyler Lydon,PF,"Pine Plains, NYNew Hampton School",6'8'',181,four,84,Syracuse
+26,POR,Caleb Swanigan,Purdue,3,75,655,169,218,56,0.438,0.118,0.614,8.7,2.3,2.9,0.7,9,Caleb Swanigan,C,"Fort Wayne, INHomestead High School",6'8'',275,five,94,Purdue
+28,LAL,Tony Bradley,UNC,6,176,1986,785,728,90,0.634,0.455,0.676,11.3,4.5,4.1,0.5,17,Tony Bradley,C,"Bartow, FLBartow High School",6'10'',235,five,93,N Carolina
+30,UTA,Josh Hart,Villanova,6,334,9388,3290,2022,772,0.457,0.347,0.741,28.1,9.9,6.1,2.3,92,Josh Hart,SF,"Washington, DCSidwell Friends School",6'4'',190,four,82,Villanova
+31,CHO,Frank Jackson,Duke,4,213,3868,1816,390,221,0.422,0.333,0.786,18.2,8.5,1.8,1,10,Frank Jackson,PG,"Alpine, UTLone Peak High School",6'4'',200,five,96,Duke
+35,ORL,Ivan Rabb,California,2,85,1237,485,364,86,0.555,0.2,0.743,14.6,5.7,4.3,1,8,Ivan Rabb,PF,"Oakland, CABishop O'Dowd High School",6'11'',210,five,94,California
+36,PHI,Jonah Bolden,,2,51,686,217,174,40,0.486,0.34,0.484,13.5,4.3,3.4,0.8,69,Jonah Bolden,PF,"New South Wales, AUSBrewster Academy",6'8'',205,four,84,UCLA
+37,BOS,Semi Ojeleye,SMU,5,284,4111,975,613,126,0.384,0.344,0.717,14.5,3.4,2.2,0.4,40,Semi Ojeleye,SF,"Ottawa, KSOttawa High School",6'6'',220,four,88,Duke
+38,CHI,Jordan Bell,Oregon,5,161,1937,593,497,201,0.552,0.2,0.636,12,3.7,3.1,1.2,78,Jordan Bell,PF,"Long Beach, CALong Beach Polytechnic High School",6'7'',190,four,84,Oregon
+39,PHI,Jawun Evans,Oklahoma State,2,56,843,237,96,110,0.345,0.263,0.776,15.1,4.2,1.7,2,33,Jawun Evans,PG,"Dallas, TXJustin F. Kimball High School",6'0'',180,four,87,Oklahoma St
+40,NOP,Dwayne Bacon,Florida State,4,207,4012,1503,537,230,0.402,0.314,0.78,19.4,7.3,2.6,1.1,14,Dwayne Bacon,SG,"Lakeland, FLOak Hill Academy",6'6'',209,five,91,Florida St
+41,ATL,Tyler Dorsey,Oregon,3,107,1680,710,245,135,0.392,0.351,0.669,15.7,6.6,2.3,1.3,38,Tyler Dorsey,SG,"Los Angeles, CAMaranatha High School",6'4'',180,four,87,Oregon
+42,UTA,Thomas Bryant,Indiana,6,197,4022,2085,1167,243,0.602,0.361,0.759,20.4,10.6,5.9,1.2,20,Thomas Bryant,C,"Rochester, NYHuntington Prep",6'10'',220,four,89,Indiana
+47,IND,Ike Anigbogu,UCLA,2,14,36,13,12,1,0.333,,0.833,2.6,0.9,0.9,0.1,61,Ike Anigbogu,C,"Corona, CACentennial High School",6'9'',220,four,84,UCLA
+48,MIL,Sindarius Thornwell,South Carolina,4,160,1721,401,206,111,0.407,0.34,0.672,10.8,2.5,1.3,0.7,41,Sindarius Thornwell,SG,"Lancaster, SCOak Hill Academy",6'5'',180,four,88,S Carolina
+51,DEN,Monte Morris,Iowa State,6,316,8091,3302,776,1236,0.479,0.392,0.822,25.6,10.4,2.5,3.9,84,Monte Morris,PG,"Flint, MIBeecher High School",6'1'',165,four,84,Iowa State
+52,NOP,Edmond Sumner,Xavier,5,141,1995,843,212,161,0.47,0.32,0.789,14.1,6,1.5,1.1,78,Edmond Sumner,PG,"Detroit, MIDetroit Country Day School",6'3'',160,four,83,Xavier
+55,UTA,Nigel Williams-Goss,Gonzaga,1,10,50,14,6,6,0.313,0.286,1,5,1.4,0.6,0.6,19,Nigel Williams-Goss,PG,"Happy Valley, ORFindlay College Prep",6'3'',180,five,91,Washington
+56,BOS,Jabari Bird,California,1,13,115,39,19,8,0.577,0.429,0.462,8.8,3,1.5,0.6,23,Jabari Bird,SG,"Richmond, CASalesian High School",6'6'',190,four,89,California
+59,SAS,Jaron Blossomgame,Clemson,1,27,439,114,98,13,0.443,0.256,0.769,16.3,4.2,3.6,0.5,95,Jaron Blossomgame,SF,"Alpharetta, GAChattahoochee High School",6'7'',200,four,92,Clemson
+1,PHO,Deandre Ayton,Arizona,5,273,8340,4490,2849,455,0.598,0.273,0.751,30.5,16.4,10.4,1.7,3,DeAndre Ayton,C,"Phoenix, AZHillcrest Prep",7'0'',220,five,97,Arizona
+2,SAC,Marvin Bagley III,Duke,5,191,4691,2521,1372,165,0.504,0.289,0.672,24.6,13.2,7.2,0.9,1,"Marvin Bagley, III",PF,"Phoenix, AZSierra Canyon High School",6'11'',220,five,98,Duke
+4,MEM,Jaren Jackson Jr.,Michigan State,5,228,6151,3618,1204,261,0.459,0.353,0.787,27,15.9,5.3,1.1,9,Jaren Jackson,PF,"Indianapolis, INLa Lumiere School",6'11'',225,five,95,Michigan St
+5,DAL,Trae Young,Oklahoma,5,316,10683,8065,1190,2897,0.437,0.35,0.875,33.8,25.5,3.8,9.2,23,Trae Young,PG,"Norman, OKNorman North High School",6'2'',170,five,93,Oklahoma
+6,ORL,Mo Bamba,Texas,5,259,4796,2001,1536,236,0.477,0.355,0.687,18.5,7.7,5.9,0.9,4,Mohamed Bamba,C,"Harlem, NYWesttown School",7'0'',216,five,96,Texas
+7,CHI,Wendell Carter Jr.,Duke,5,226,6296,2843,2001,470,0.515,0.31,0.737,27.9,12.6,8.9,2.1,5,Wendell Carter,PF,"Atlanta, GAPace Academy",6'9'',255,five,96,Duke
+8,CLE,Collin Sexton,Alabama,5,250,7949,4808,734,812,0.46,0.379,0.829,31.8,19.2,2.9,3.2,7,Collin Sexton,PG,"Mableton, GAPebblebrook High School",6'3'',175,five,95,Alabama
+9,NYK,Kevin Knox,Kentucky,5,246,4505,1832,705,186,0.376,0.342,0.711,18.3,7.4,2.9,0.8,10,Kevin Knox,SF,"Tampa, FLTampa Catholic High School",6'9'',206,five,95,Kentucky
+10,PHI,Mikal Bridges,Villanova,5,351,11189,4141,1404,774,0.5,0.376,0.841,31.9,11.8,4,2.2,82,Mikal Bridges,SF,"Malvern, PAGreat Valley High School",6'7'',180,four,83,Villanova
+11,CHO,Shai Gilgeous-Alexander,Kentucky,5,280,9046,5561,1264,1247,0.478,0.348,0.832,32.3,19.9,4.5,4.5,35,Shai Gilgeous-Alexander,PG,"Hamilton, Ontario, CANHamilton Heights Christian Academy",6'5'',185,four,89,Kentucky
+12,LAC,Miles Bridges,Michigan State,4,291,8460,3893,1641,656,0.473,0.346,0.809,29.1,13.4,5.6,2.3,8,Miles Bridges,SF,"Flint, MIHuntington Prep",6'7'',225,five,96,Michigan St
+14,DEN,Michael Porter Jr.,Missouri,4,151,3837,2185,917,164,0.508,0.417,0.788,25.4,14.5,6.1,1.1,2,Michael Porter Jr.,SF,"Seattle, WANathan Hale High School",6'10'',215,five,97,Missouri
+18,SAS,Lonnie Walker IV,Miami (FL),5,240,5193,2421,567,375,0.421,0.351,0.798,21.6,10.1,2.4,1.6,13,Lonnie Walker,SG,"Reading, PAReading High School",6'4'',206,five,93,Miami
+15,WAS,Troy Brown Jr.,Oregon,5,256,4875,1637,972,379,0.431,0.341,0.774,19,6.4,3.8,1.5,15,Troy Brown Jr.,SF,"Las Vegas, NVCentennial High School",6'7'',215,five,93,Oregon
+19,ATL,Kevin Huerter,Maryland,5,312,9312,3727,1084,982,0.438,0.386,0.773,29.8,11.9,3.5,3.1,50,Kevin Huerter,SG,"Clifton Park, NYShenendehowa Central High School",6'5'',170,four,86,Maryland
+21,UTA,Grayson Allen,Duke,5,229,5213,2187,623,380,0.433,0.392,0.856,22.8,9.6,2.7,1.7,21,Grayson Allen,SG,"Jacksonville, FLProvidence School of Jacksonville",6'4'',185,five,93,Duke
+22,CHI,Chandler Hutchison,Boise State,4,103,1790,558,376,79,0.442,0.309,0.643,17.4,5.4,3.7,0.8,80,Chandler Hutchison,SF,"Mission Viejo, CAMission Viejo High School",6'6'',185,four,83,Boise State
+23,IND,Aaron Holiday,UCLA,5,281,5047,1968,486,643,0.414,0.377,0.84,18,7,1.7,2.3,88,Aaron Holiday,PG,"North Hollywood, CACampbell Hall High School",6'0'',175,four,82,UCLA
+24,POR,Anfernee Simons,,5,249,5749,2986,565,572,0.428,0.387,0.851,23.1,12,2.3,2.3,9,Anfernee Simons,SG,"Altamonte Springs, FLIMG Academy",6'3'',181,five,94,List
+27,BOS,Robert Williams,Texas A&M,5,184,3658,1332,1231,262,0.733,0,0.67,19.9,7.2,6.7,1.4,51,Robert Williams,PF,"Vivian, LANorth Caddo High School",6'8'',220,four,86,Texas A&M
+30,ATL,Omari Spellman,Villanova,2,95,1691,642,413,94,0.417,0.366,0.766,17.8,6.8,4.3,1,18,Omari Spellman,PF,"North Royalton, OHSt. Thomas More School",6'9'',275,five,93,Villanova
+33,DAL,Jalen Brunson,Villanova,5,315,8095,4105,975,1281,0.489,0.375,0.811,25.7,13,3.1,4.1,16,Jalen Brunson,PG,"Lincolnshire, ILAdlai E. Stevenson High School",6'1'',180,five,90,Villanova
+36,NYK,Mitchell Robinson,,5,263,6349,2187,2017,162,0.719,,0.54,24.1,8.3,7.7,0.6,11,Mitchell Robinson,C,"New Orleans, LAChalmette High School",6'11'',215,five,95,List
+37,SAC,Gary Trent Jr.,Duke,5,238,6792,3382,533,338,0.42,0.385,0.821,28.5,14.2,2.2,1.4,8,Gary Trent Jr.,SG,"Apple Valley, MNProlific Prep",6'5'',200,five,95,Duke
+41,ORL,Jarred Vanderbilt,Kentucky,5,208,4175,1247,1363,294,0.584,0.273,0.632,20.1,6,6.6,1.4,19,Jarred Vanderbilt,PF,"Houston, TXVictory Prep Academy",6'8'',200,five,93,Kentucky
+42,DET,Bruce Brown,Miami (FL),5,308,7436,2491,1318,724,0.485,0.35,0.751,24.1,8.1,4.3,2.4,26,Bruce Brown,SG,"Wakefield, MAVermont Academy",6'4'',200,five,92,Miami
+48,MIN,Keita Bates-Diop,Ohio State,5,193,2984,1078,575,122,0.473,0.313,0.731,15.5,5.6,3,0.6,22,Keita Bates-Diop,SF,"Bloomington, ILUniversity High School",6'7'',190,five,92,Ohio State
+49,SAS,Chimezie Metu,USC,5,170,2310,1007,602,129,0.479,0.302,0.768,13.6,5.9,3.5,0.8,40,Chimezie Metu,PF,"Lawndale, CALawndale High School",6'9'',215,four,87,USC
+51,NOP,Tony Carr,Penn State,,,,,,,,,,,,,,43,Tony Carr,PG,"Philadelphia, PARoman Catholic High School",6'3'',170,four,87,Penn State
+54,DAL,Shake Milton,SMU,5,214,4576,2106,520,579,0.458,0.362,0.822,21.4,9.8,2.4,2.7,79,Shake Milton,PG,"Owasso, OKOwasso High School",6'4'',190,four,84,SMU
+58,DEN,Thomas Welsh,UCLA,1,11,36,18,4,5,0.538,0.429,0.5,3.3,1.6,0.4,0.5,36,Thomas Welsh,C,"Los Angeles, CALoyola High School",6'11'',240,four,88,UCLA
+1,NOP,Zion Williamson,Duke,3,114,3650,2941,793,409,0.605,0.343,0.691,32,25.8,7,3.6,2,Zion Williamson,PF,"Spartanburg, SCSpartanburg Day School",6'6'',272,five,96,Duke
+3,NYK,RJ Barrett,Duke,4,233,7824,4160,1292,672,0.419,0.353,0.708,33.6,17.9,5.5,2.9,1,R.J. Barrett,SF,"Mississauga, Ont., CANMontverde Academy",6'7'',200,five,96,Duke
+5,CLE,Darius Garland,Vanderbilt,4,214,7228,3847,554,1397,0.444,0.38,0.873,33.8,18,2.6,6.5,16,Darius Garland,PG,"Brentwood, TNBrentwood Academy",6'2'',175,five,93,Vanderbilt
+7,CHI,Coby White,UNC,4,228,6181,2926,778,739,0.413,0.363,0.844,27.1,12.8,3.4,3.2,23,Coby White,PG,"Goldsboro, NCGreenfield High School",6'3'',165,five,91,N Carolina
+8,ATL,Jaxson Hayes,Texas,4,215,3722,1674,895,152,0.626,0.326,0.718,17.3,7.8,4.2,0.7,89,Jaxson Hayes,C,"Cincinnati, OHMoeller High School",6'10'',205,four,83,Texas
+10,ATL,Cam Reddish,Duke,4,153,3751,1567,456,190,0.393,0.323,0.844,24.5,10.2,3,1.2,3,Cam Reddish,SF,"Norristown, PAWesttown School",6'7'',203,five,96,Duke
+12,CHO,P.J. Washington,Kentucky,4,228,6793,2828,1258,525,0.45,0.37,0.721,29.8,12.4,5.5,2.3,12,P.J. Washington,PF,"Las Vegas, NVFindlay College Prep",6'8'',230,five,95,Kentucky
+13,MIA,Tyler Herro,Kentucky,4,207,6427,3602,1012,710,0.441,0.386,0.863,31,17.4,4.9,3.4,30,Tyler Herro,SG,"Greenfield, WIWhitnall High School",6'5'',193,four,89,Kentucky
+14,BOS,Romeo Langford,Indiana,4,124,1948,546,258,75,0.432,0.289,0.654,15.7,4.4,2.1,0.6,5,Romeo Langford,SG,"New Albany, INNew Albany High School",6'6'',195,five,95,Indiana
+16,ORL,Chuma Okeke,Auburn,3,133,3274,1052,604,245,0.388,0.323,0.802,24.6,7.9,4.5,1.8,50,Chuma Okeke,PF,"Atlanta, GAWestlake High School",6'8'',221,four,86,Auburn
+17,BRK,Nickeil Alexander-Walker,Virginia Tech,4,187,3520,1673,463,414,0.397,0.337,0.721,18.8,8.9,2.5,2.2,21,Nickeil Alexander-Walker,SG,"Toronto, Ontario, CANHamilton Heights Christian Academy",6'5'',195,five,93,Virginia Tech
+23,UTA,Darius Bazley,,4,210,5172,1981,1166,260,0.408,0.308,0.674,24.6,9.4,5.6,1.2,13,Darius Bazley,PF,"Cincinnati, OHPrinceton High School",6'8'',195,five,93,List
+24,PHI,Ty Jerome,Virginia,4,137,2360,975,255,331,0.414,0.349,0.821,17.2,7.1,1.9,2.4,44,Ty Jerome,PG,"New Rochelle, NYIona College Prep",6'5'',180,four,87,Virginia
+25,POR,Nassir Little,UNC,4,159,2622,918,522,117,0.457,0.324,0.721,16.5,5.8,3.3,0.7,6,Nassir Little,SF,"Orange Park, FLOrlando Christian Prep",6'7'',215,five,95,N Carolina
+28,GSW,Jordan Poole,Michigan,4,225,5781,3372,573,720,0.419,0.334,0.879,25.7,15,2.5,3.2,51,Jordan Poole,SG,"Milwaukee, WILa Lumiere School",6'5'',185,four,86,Michigan
+29,SAS,Keldon Johnson,Kentucky,4,196,5780,3055,1094,388,0.465,0.374,0.754,29.5,15.6,5.6,2,7,Keldon Johnson,SF,"South Hill, VAOak Hill Academy",6'6'',205,five,94,Kentucky
+33,PHI,Carsen Edwards,Purdue,3,72,706,267,79,52,0.364,0.297,0.758,9.8,3.7,1.1,0.7,89,Carsen Edwards,PG,"Humble, TXAtascocita High School",6'1'',175,four,82,Purdue
+34,PHI,Bruno Fernando,Maryland,4,140,1323,457,405,85,0.531,0.143,0.611,9.5,3.3,2.9,0.6,72,Bruno Fernando,C,"Montverde, FLMontverde Academy",6'9'',217,four,83,List
+36,CHO,Cody Martin,Nevada,4,176,3709,1007,621,368,0.454,0.317,0.654,21.1,5.7,3.5,2.1,91,Cody Martin,SF,"Mocksville, NCOak Hill Academy",6'7'',205,four,81,NC State
+43,MIN,Jaylen Nowell,Washington,4,160,2715,1430,345,302,0.442,0.327,0.804,17,8.9,2.2,1.9,59,Jaylen Nowell,SG,"Seattle, WAGarfield High School",6'5'',191,four,86,Washington
+44,MIA,Bol Bol,Oregon,4,90,1295,585,326,52,0.559,0.385,0.717,14.4,6.5,3.6,0.6,4,Bol Bol,C,"Henderson, NVFindlay College Prep",7'2'',220,five,96,Oregon
+46,ORL,Talen Horton-Tucker,Iowa State,4,165,3430,1446,451,427,0.429,0.269,0.776,20.8,8.8,2.7,2.6,66,Talen Horton-Tucker,SF,"Chicago, ILSimeon Career Academy",6'5'',220,four,85,Iowa State
+48,LAC,Terance Mann,Florida State,4,231,4855,1790,878,443,0.495,0.373,0.783,21,7.7,3.8,1.9,86,Terance Mann,SG,"Lowell, MATilton School",6'5'',175,four,82,Florida St
+51,BOS,Tremont Waters,LSU,3,40,407,149,37,85,0.354,0.296,0.96,10.2,3.7,0.9,2.1,34,Tremont Waters,PG,"New Haven, CTNotre Dame High School",5'11'',165,four,89,LSU
+55,NYK,Kyle Guy,Virginia,3,53,431,165,53,50,0.361,0.303,0.75,8.1,3.1,1,0.9,28,Kyle Guy,SG,"Indianapolis, INLawrence Central High School",6'2'',170,five,92,Virginia
+56,LAC,Jaylen Hands,UCLA,,,,,,,,,,,,,,20,Jaylen Hands,PG,"San Diego, CAFoothills Christian High School",6'3'',170,five,93,UCLA
+1,MIN,Anthony Edwards,Georgia,3,185,6278,3895,931,664,0.435,0.347,0.772,33.9,21.1,5,3.6,4,Anthony Edwards,SG,"Atlanta, GAHoly Spirit School",6'4'',205,five,96,Georgia
+2,GSW,James Wiseman,Memphis,2,58,1077,578,295,40,0.536,0.325,0.636,18.6,10,5.1,0.7,1,James Wiseman,C,"Memphis, TNEast High School",7'0'',230,five,97,Memphis
+3,CHO,LaMelo Ball,,3,144,4509,2727,900,1039,0.428,0.378,0.831,31.3,18.9,6.3,7.2,21,LaMelo Ball,PG,"Chino Hills, CASPIRE Institute",6'6'',180,five,93,List
+4,CHI,Patrick Williams,Florida State,3,129,3594,1215,563,167,0.479,0.416,0.766,27.9,9.4,4.4,1.3,28,Patrick Williams,SF,"Charlotte, NCWest Charlotte High School",6'8'',215,four,89,Florida St
+5,CLE,Isaac Okoro,Auburn,3,176,4949,1452,507,283,0.445,0.31,0.751,28.1,8.3,2.9,1.6,40,Isaac Okoro,SF,"Powder Springs, GAMcEachern High School",6'6'',215,four,88,Auburn
+6,ATL,Onyeka Okongwu,USC,3,137,2526,976,727,106,0.651,0,0.709,18.4,7.1,5.3,0.8,20,Onyeka Okongwu,C,"Chino Hills, CAChino Hills High School",6'8'',225,five,93,USC
+10,PHO,Jalen Smith,Maryland,3,117,1868,917,584,69,0.48,0.303,0.771,16,7.8,5,0.6,10,Jalen Smith,PF,"Baltimore, MDMount St. Joseph High School",6'9'',195,five,93,Maryland
+14,BOS,Aaron Nesmith,Vanderbilt,3,134,2083,763,354,92,0.426,0.335,0.845,15.5,5.7,2.6,0.7,69,Aaron Nesmith,SG,"Charleston, SCPorter-Gaud School",6'5'',,four,85,Vanderbilt
+15,ORL,Cole Anthony,UNC,3,136,3967,1952,679,663,0.397,0.333,0.854,29.2,14.4,5,4.9,2,Cole Anthony,PG,"Briarwood, NYOak Hill Academy",6'3'',185,five,96,N Carolina
+16,POR,Isaiah Stewart,Washington,3,175,4298,1552,1356,185,0.51,0.337,0.719,24.6,8.9,7.7,1.1,3,Isaiah Stewart,C,"Rochester, NYLa Lumiere School",6'9'',245,five,96,Washington
+18,DAL,Josh Green,Arizona,3,131,1991,596,296,136,0.513,0.357,0.673,15.2,4.5,2.3,1,8,Josh Green,SG,"Bradenton, FLIMG Academy",6'6'',206,five,96,Arizona
+20,MIA,Precious Achiuwa,Memphis,3,151,2760,1097,772,130,0.458,0.327,0.591,18.3,7.3,5.1,0.9,17,Precious Achiuwa,PF,"Bronx, NYMontverde Academy",6'9'',210,five,95,Memphis
+21,PHI,Tyrese Maxey,Kentucky,3,157,4306,2245,407,526,0.474,0.397,0.846,27.4,14.3,2.6,3.4,13,Tyrese Maxey,SG,"Dallas, TXSouth Garland High School",6'2'',190,five,95,Kentucky
+22,DEN,Zeke Nnaji,Arizona,3,113,1426,529,263,34,0.524,0.405,0.689,12.6,4.7,2.3,0.3,49,Zeke Nnaji,C,"Minnetonka, MNHopkins High School",6'11'',230,four,88,Arizona
+24,MIL,R.J. Hampton,,3,140,2650,992,412,279,0.408,0.337,0.682,18.9,7.1,2.9,2,5,R.J. Hampton,PG,"Little Elm, TXLittle Elm High School",6'5'',185,five,96,List
+25,OKC,Immanuel Quickley,Kentucky,3,183,4150,2112,552,539,0.399,0.358,0.876,22.7,11.5,3,2.9,25,Immanuel Quickley,PG,"Havre De Grace, MDThe John Carroll School",6'3'',180,five,90,Kentucky
+26,BOS,Payton Pritchard,Oregon,3,163,2519,1064,321,284,0.433,0.407,0.885,15.5,6.5,2,1.7,55,Payton Pritchard,PG,"West Linn, ORWest Linn High School",6'0'',175,four,85,Oregon
+27,UTA,Udoka Azubuike,Kansas,3,47,315,122,111,5,0.736,,0.593,6.7,2.6,2.4,0.1,22,Udoka Azubuike,C,"Jacksonville, FLPotters House Christian",6'11'',270,five,92,Kansas
+28,LAL,Jaden McDaniels,Washington,3,171,4475,1513,669,219,0.474,0.346,0.731,26.2,8.8,3.9,1.3,7,Jaden McDaniels,PF,"Federal Way, WAFederal Way High School",6'10'',185,five,96,Washington
+32,CHO,Vernon Carey Jr.,Duke,3,33,174,68,44,3,0.5,0.143,0.625,5.3,2.1,1.3,0.1,6,Vernon Carey Jr.,C,"Southwest Ranches, FLNSU University School",6'10'',275,five,96,Duke
+33,MIN,Daniel Oturu,Minnesota,2,33,188,63,53,10,0.431,0.167,0.706,5.7,1.9,1.6,0.3,57,Daniel Oturu,C,"Saint Paul, MNCretin-Derham Hall High School",6'10'',220,four,86,Minnesota
+40,MEM,Robert Woodard II,Mississippi State,2,25,87,27,27,5,0.278,0.2,0.5,3.5,1.1,1.1,0.2,46,Robert Woodard II,SF,"Columbus, MSColumbus High School",6'6'',222,four,88,Miss. St
+41,SAS,Tre Jones,Duke,3,146,2614,1040,323,528,0.464,0.259,0.843,17.9,7.1,2.2,3.6,17,Tre Jones,PG,"Apple Valley, MNApple Valley High School",6'2'',183,five,93,Duke
+42,NOP,Nick Richards,Kentucky,3,104,1062,467,310,36,0.629,0,0.716,10.2,4.5,3,0.3,17,Nick Richards,C,"Queens, NYThe Patrick School",6'11'',239,five,93,Kentucky
+45,MIL,Jordan Nwora,Louisville,3,121,1922,831,369,94,0.407,0.372,0.825,15.9,6.9,3,0.8,56,Jordan Nwora,PF,"Buffalo, NYVermont Academy",6'8'',220,four,86,Louisville
+48,GSW,Nico Mannion,Arizona,1,30,364,123,46,70,0.342,0.367,0.821,12.1,4.1,1.5,2.3,9,Nico Mannion,PG,"Scottsdale, AZPinnacle High School",6'3'',180,five,96,Arizona
+52,SAC,Kenyon Martin Jr.,,3,164,3681,1534,731,205,0.532,0.348,0.661,22.4,9.4,4.5,1.3,57,Kenyon Martin Jr.,PF,"Bradenton, FLIMG Academy",6'6'',210,four,85,List
+53,OKC,Cassius Winston,Michigan State,2,29,137,55,10,19,0.409,0.435,0.9,4.7,1.9,0.3,0.7,32,Cassius Winston,PG,"Detroit, MIUniv. of Detroit Jesuit High School",6'1'',177,four,89,Michigan St
+54,IND,Cassius Stanley,Duke,2,33,248,88,39,5,0.36,0.233,0.895,7.5,2.7,1.2,0.2,32,Cassius Stanley,SG,"Los Angeles, CASierra Canyon High School",6'5'',185,four,89,Duke
+57,LAC,Reggie Perry,Mississippi State,2,36,398,170,120,26,0.459,0.189,0.679,11.1,4.7,3.3,0.7,29,Reggie Perry,PF,"Thomasville, GAThomasville High School",6'8'',239,four,89,Miss. St
+1,DET,Cade Cunningham,Oklahoma State,2,76,2488,1353,428,428,0.416,0.309,0.844,32.7,17.8,5.6,5.6,2,Cade Cunningham,PG,"Arlington, TXMontverde Academy",6'7'',215,five,97,Oklahoma St
+2,HOU,Jalen Green,,2,107,3513,2005,400,321,0.417,0.335,0.795,32.8,18.7,3.7,3,1,Jalen Green,SG,"Fresno, CAProlific Prep",6'5'',180,five,97,List
+3,CLE,Evan Mobley,USC,2,109,3693,1601,923,285,0.523,0.237,0.668,33.9,14.7,8.5,2.6,3,Evan Mobley,C,"Temecula, CARancho Christian School",7'0'',205,five,97,USC
+4,TOR,Scottie Barnes,Florida State,2,112,3904,1691,818,435,0.477,0.296,0.743,34.9,15.1,7.3,3.9,5,Scottie Barnes,PF,"West Palm Beach, FLMontverde Academy",6'7'',210,five,96,Florida St
+5,ORL,Jalen Suggs,Gonzaga,2,66,1768,764,227,291,0.374,0.231,0.756,26.8,11.6,3.4,4.4,6,Jalen Suggs,PG,"Minneapolis, MNMinnehaha Academy",6'4'',195,five,96,Gonzaga
+7,GSW,Jonathan Kuminga,,2,103,1800,901,341,120,0.501,0.313,0.681,17.5,8.7,3.3,1.2,4,Jonathan Kuminga,SF,"Elizabeth, NJThe Patrick School",6'7'',210,five,97,List
+9,SAC,Davion Mitchell,Baylor,2,113,2813,1093,225,402,0.426,0.318,0.667,24.9,9.7,2,3.6,63,Davion Mitchell,PG,"Stockbridge, GALiberty County High School",6'2'',195,four,85,Auburn
+10,NOP,Ziaire Williams,Stanford,2,76,1578,588,174,79,0.445,0.305,0.8,20.8,7.7,2.3,1,8,Ziaire Williams,SF,"Chatsworth, CASierra Canyon High School",6'8'',180,five,95,Stanford
+11,CHO,James Bouknight,UConn,2,56,652,253,101,54,0.341,0.295,0.792,11.6,4.5,1.8,1,69,James Bouknight,SG,"Brooklyn, NYThe MacDuffie School",6'4'',180,four,86,UConn
+14,GSW,Moses Moody,Arkansas,2,87,1140,412,140,53,0.442,0.364,0.754,13.1,4.7,1.6,0.6,45,Moses Moody,SG,"Little Rock, ARMontverde Academy",6'6'',185,four,87,Arkansas
+18,OKC,Tre Mann,Florida,2,96,2093,937,261,155,0.392,0.338,0.766,21.8,9.8,2.7,1.6,34,Tre Mann,PG,"Gainesville, FLThe Villages Charter High School",6'4'',185,four,89,Florida
+19,NYK,Kai Jones,Texas,2,45,288,89,61,9,0.529,0.308,0.579,6.4,2,1.4,0.2,53,Kai Jones,C,"Wolfeboro, NHBrewster Academy",6'10'',193,four,88,Texas
+20,ATL,Jalen Johnson,Duke,2,60,694,249,164,41,0.478,0.243,0.702,11.6,4.2,2.7,0.7,13,Jalen Johnson,SF,"Glendale, WINicolet High School",6'8'',210,five,94,Duke
+21,NYK,Keon Johnson,Tennessee,2,57,940,367,115,97,0.357,0.338,0.719,16.5,6.4,2,1.7,28,Keon Johnson,SF,"Bell Buckle, TNThe Webb School",6'4'',190,five,90,Tennessee
+22,LAL,Isaiah Jackson,Kentucky,2,66,1009,506,269,39,0.564,0.273,0.683,15.3,7.7,4.1,0.6,34,Isaiah Jackson,PF,"Pontiac, MIWaterford Mott High School",6'8'',185,four,89,Kentucky
+24,HOU,Josh Christopher,Arizona State,2,96,1480,644,208,164,0.444,0.286,0.736,15.4,6.7,2.2,1.7,11,Josh Christopher,SG,"Lakewood, CAMayfair High School",6'4'',205,five,95,Arizona St
+25,LAC,Quentin Grimes,Houston,2,76,1650,581,194,105,0.431,0.375,0.758,21.7,7.6,2.6,1.4,8,Quentin Grimes,SG,"The Woodlands, TXThe Woodlands College Park High School",6'4'',204,five,94,Kansas
+27,BRK,Cam Thomas,LSU,2,94,1544,743,196,116,0.429,0.288,0.812,16.4,7.9,2.1,1.2,23,Cam Thomas,SG,"Chesapeake, VAOak Hill Academy",6'3'',175,five,93,LSU
+28,PHI,Jaden Springer,Tennessee,2,8,30,19,9,1,0.667,,0.75,3.8,2.4,1.1,0.1,17,Jaden Springer,SG,"Charlotte, NCIMG Academy",6'5'',210,five,94,Tennessee
+29,PHO,Day'Ron Sharpe,UNC,2,52,569,275,224,30,0.563,0.5,0.617,10.9,5.3,4.3,0.6,12,Day'Ron Sharpe,C,"Winterville, NCMontverde Academy",6'9'',225,five,94,N Carolina
+31,MIL,Isaiah Todd,,2,16,87,22,12,4,0.267,0.211,0.333,5.4,1.4,0.8,0.3,15,Isaiah Todd,PF,"Richmond, VAWord of God Christian Academy",6'9'',215,five,94,List
+32,NYK,Jeremiah Robinson-Earl,Villanova,2,75,1635,587,403,74,0.44,0.361,0.756,21.8,7.8,5.4,1,14,Jeremiah Robinson-Earl,PF,"Overland Park, KSIMG Academy",6'9'',235,five,95,Villanova
+38,CHI,Ayo Dosunmu,Illinois,2,116,3181,1057,335,357,0.514,0.36,0.72,27.4,9.1,2.9,3.1,36,Ayo Dosunmu,PG,"Chicago, ILMorgan Park High School",6'4'',160,four,89,Illinois
+40,NOP,Jared Butler,Baylor,1,42,360,161,45,63,0.404,0.318,0.688,8.6,3.8,1.1,1.5,88,Jared Butler,PG,"Reserve, LARiverside Academy",6'3'',180,four,83,Baylor
+41,SAS,Joe Wieskamp,Iowa,1,29,205,61,14,9,0.357,0.326,0.538,7.1,2.1,0.5,0.3,77,Joe Wieskamp,SG,"Muscatine, IAMuscatine High School",6'7'',195,four,84,Iowa
+42,DET,Isaiah Livers,Michigan,2,41,813,249,107,34,0.428,0.386,0.794,19.8,6.1,2.6,0.8,75,Isaiah Livers,PF,"Kalamazoo, MIKalamazoo Central High School",6'7'',185,four,84,Michigan
+43,NOP,Greg Brown III,Texas,2,59,712,249,147,35,0.427,0.299,0.636,12.1,4.2,2.5,0.6,9,Greg Brown,PF,"Austin, TXVandegrift High School",6'8'',205,five,95,Texas
+47,TOR,David Johnson,Louisville,1,2,2,0,0,0,0,0,,1,0,0,0,78,David Johnson,SG,"Louisville, KYTrinity High School",6'4'',200,four,84,Louisville
+48,ATL,Sharife Cooper,Auburn,1,13,39,7,5,5,0.214,0.167,,3,0.5,0.4,0.4,20,Sharife Cooper,PG,"Powder Springs, GAMcEachern High School",6'0'',160,five,94,Auburn
+51,MEM,Brandon Boston Jr.,Kentucky,2,66,905,424,129,64,0.381,0.326,0.806,13.7,6.4,2,1,7,B.J. Boston,SF,"Chatsworth, CASierra Canyon High School",6'6'',175,five,96,Kentucky
+52,DET,Luka Garza,Iowa,2,43,463,242,119,24,0.472,0.298,0.688,10.8,5.6,2.8,0.6,100,Luka Garza,C,"Washington, DCMaret School",6'11'',230,four,83,Iowa
+53,PHI,Charles Bassey,Western Kentucky,2,47,495,181,187,36,0.658,0.2,0.694,10.5,3.9,4,0.8,18,Charles Bassey,C,"San Antonio, TXASPIRE Academy",6'10'',220,five,92,W Kentucky
+55,OKC,Aaron Wiggins,Maryland,2,82,1791,618,288,116,0.472,0.33,0.75,21.8,7.5,3.5,1.4,42,Aaron Wiggins,SF,"Greensboro, NCWesleyan Christian Academy",6'6'',180,four,88,Maryland
+56,CHO,Scottie Lewis,Florida,1,2,7,1,0,1,,,0.5,3.5,0.5,0,0.5,10,Scottie Lewis,SF,"Colts Neck, NJRanney School",6'5'',185,five,96,Florida
+58,NYK,Jericho Sims,Texas,2,73,949,204,304,32,0.754,,0.513,13,2.8,4.2,0.4,67,Jericho Sims,C,"Minneapolis, MNCristo Rey Jesuit High School",6'8'',190,four,85,Texas
+1,ORL,Paolo Banchero,Duke,1,35,1197,743,240,135,0.435,0.313,0.758,34.2,21.2,6.9,3.9,4,Paolo Banchero,PF,"Seattle, WAO'Dea High School",6'9'',225,five,97,Duke
+2,OKC,Chet Holmgren,Gonzaga,,,,,,,,,,,,,,1,Chet Holmgren,C,"Minneapolis, MNMinnehaha Academy",7'1'',195,five,97,Gonzaga
+3,HOU,Jabari Smith Jr.,Auburn,1,39,1163,461,274,36,0.383,0.321,0.807,29.8,11.8,7,0.9,,,,,,,,,
+5,DET,Jaden Ivey,Purdue,1,40,1186,600,161,164,0.411,0.333,0.727,29.7,15,4,4.1,84,Jaden Ivey,SG,"Mishawaka, INLa Lumiere School",6'4'',190,four,83,Purdue
+13,CHO,Jalen Duren,Memphis,1,39,951,299,332,38,0.634,0,0.573,24.4,7.7,8.5,1,7,Jalen Duren,C,"Philadelphia, PAMontverde Academy",6'10'',245,five,97,Memphis
+15,CHO,Mark Williams,Duke,1,12,164,73,71,5,0.551,,0.731,13.7,6.1,5.9,0.4,32,Mark Williams,C,"Norfolk, VAIMG Academy",7'0'',230,four,89,Duke
+18,CHI,Dalen Terry,Arizona,1,14,52,12,4,7,0.308,0.25,0.75,3.7,0.9,0.3,0.5,63,Dalen Terry,SF,"Tempe, AZHillcrest Prep",6'6'',160,four,84,Arizona
+20,SAS,Malaki Branham,Ohio State,1,27,523,194,46,45,0.424,0.302,0.783,19.4,7.2,1.7,1.7,34,Malaki Branham,SF,"Akron, OHSt. Vincent-St. Mary High School",6'5'',180,four,88,Ohio State
+22,MEM,Walker Kessler,Auburn,1,41,779,281,273,27,0.703,,0.557,19,6.9,6.7,0.7,14,Walker Kessler,C,"Fairburn, GAWoodward Academy",6'11'',220,five,94,N Carolina
+24,MIL,MarJon Beauchamp,,1,29,448,184,77,18,0.416,0.344,0.72,15.4,6.3,2.7,0.6,47,MarJon Beauchamp,SF,"Seattle, WADream City Christian",6'6'',180,four,87,List
+26,DAL,Wendell Moore Jr.,Duke,1,17,98,32,13,9,0.448,0.167,0.8,5.8,1.9,0.8,0.5,,,,,,,,,
+28,GSW,Patrick Baldwin Jr.,UW-Milwaukee,1,13,115,70,21,3,0.429,0.432,0.75,8.8,5.4,1.6,0.2,5,Patrick Baldwin Jr.,PF,"Sussex, WIHamilton High School",6'9'',220,five,97,Milwaukee
+29,MEM,TyTy Washington Jr.,Kentucky,1,12,128,38,16,15,0.348,0.143,0.5,10.7,3.2,1.3,1.3,14,TyTy Washington,PG,"Phoenix, AZAZ Compass Prep",6'3'',175,five,94,Kentucky
+30,OKC,Peyton Watson,UCLA,1,6,15,6,3,0,0.333,0,,2.5,1,0.5,0,12,Peyton Watson,SF,"Long Beach, CALong Beach Polytechnic High School",6'7'',185,five,94,UCLA
+31,IND,Andrew Nembhard,Gonzaga,1,36,975,304,110,132,0.476,0.4,0.889,27.1,8.4,3.1,3.7,28,Andrew Nembhard,PG,"Aurora, Ontario, CANMontverde Academy",6'4'',190,four,89,Florida
+32,ORL,Caleb Houstan,Michigan,1,30,496,119,69,18,0.381,0.364,0.846,16.5,4,2.3,0.6,8,Caleb Houstan,SF,"Montverde, FLMontverde Academy",6'8'',200,five,96,Michigan
+34,OKC,Jaylin Williams,Arkansas,1,11,131,33,39,12,0.343,0.25,0.6,11.9,3,3.5,1.1,94,Jaylin Williams,C,"Fort Smith, ARNorthside High School",6'9'',,four,82,Arkansas
+35,LAL,Max Christie,Michigan State,1,23,311,81,50,14,0.414,0.439,0.833,13.5,3.5,2.2,0.6,18,Max Christie,SG,"Rolling Meadows, ILRolling Meadows High School",6'7'',185,five,92,Michigan St
+37,SAC,Jaden Hardy,,1,15,157,82,18,8,0.4,0.25,0.882,10.5,5.5,1.2,0.5,2,Jaden Hardy,SG,"Henderson, NVCoronado High School",6'4'',185,five,97,List
+38,SAS,Kennedy Chandler,Tennessee,1,20,203,57,29,45,0.403,0.154,0.455,10.2,2.9,1.5,2.3,10,Kennedy Chandler,PG,"Memphis, TNSunrise Christian Academy",6'1'',170,five,95,Tennessee
+40,MIN,Bryce McGowens,Nebraska,1,15,193,56,18,14,0.396,0.375,0.857,12.9,3.7,1.2,0.9,26,Bryce McGowens,SG,"Greenville, SCLegacy Early College High School",6'6'',175,four,89,Nebraska
+41,NOP,E.J. Liddell,Ohio State,,,,,,,,,,,,,,38,E.J. Liddell,PF,"Belleville, ILBelleville West High School",6'7'',215,four,89,Ohio State
+42,NYK,Trevor Keels,Duke,1,1,1,0,1,0,0,0,,1,0,1,0,23,Trevor Keels,SG,"Fairfax, VAPaul VI High School",6'5'',210,five,90,Duke
+43,LAC,Moussa Diabaté,Michigan,1,8,90,33,32,2,0.542,,0.778,11.3,4.1,4,0.3,13,Moussa Diabate,PF,"Bradenton, FLIMG Academy",6'9'',215,five,94,Michigan
+45,CHO,Josh Minott,Memphis,1,7,16,10,5,2,0.6,0,1,2.3,1.4,0.7,0.3,70,Josh Minott,SF,"Boca Raton, FLSaint Andrews School",6'8'',200,four,84,Memphis
+48,MIN,Kendall Brown,Baylor,1,6,40,9,6,3,0.571,0,0.5,6.7,1.5,1,0.5,17,Kendall Brown,SF,"Cottage Grove, MNSunrise Christian Academy",6'8'',205,five,92,Baylor
+49,CLE,Isaiah Mobley,USC,1,8,26,9,11,0,0.5,0.5,,3.3,1.1,1.4,0,16,Isaiah Mobley,PF,"Temecula, CARancho Christian School",6'9'',210,five,95,USC
+53,BOS,JD Davison,Alabama,1,3,8,2,1,1,0.25,0,,2.7,0.7,0.3,0.3,,,,,,,,,
