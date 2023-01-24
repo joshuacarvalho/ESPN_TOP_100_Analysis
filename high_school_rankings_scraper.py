@@ -1,3 +1,4 @@
+#this scrapes ESPN's top 100 player data
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd

@@ -1,7 +1,7 @@
+#this scrapes nba draft data
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-
 
 years = list(range(1989,2023))
 

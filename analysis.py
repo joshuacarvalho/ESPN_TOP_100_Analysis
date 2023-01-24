@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 plt.style.use('fivethirtyeight')
-
+'''
 nba_first_year_df = pd.read_csv('nba_first_year_data.csv')
 high_school_rank_df = pd.read_csv('college_player_rankings.csv')
 
@@ -15,6 +15,10 @@ nba_first_year_df = nba_first_year_df.rename(columns = {'MP':'MP_total', 'PTS':'
 #joining the dataframe on players
 merged_df = pd.merge(nba_first_year_df, high_school_rank_df, left_on='Player', right_on = 'PLAYER')
 merged_df.to_csv('merged.csv')
+'''
+
+#simply use the merged dataset I provided
+# the code above was for creating it
 
 merged_df = pd.read_csv('merged - master.csv')
 
